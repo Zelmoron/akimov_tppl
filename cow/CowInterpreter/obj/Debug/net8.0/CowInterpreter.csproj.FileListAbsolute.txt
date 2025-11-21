@@ -1,0 +1,15 @@
+/home/igor/Projects/akimov_tppl/cow/CowInterpreter/bin/Debug/net8.0/CowInterpreter
+/home/igor/Projects/akimov_tppl/cow/CowInterpreter/bin/Debug/net8.0/CowInterpreter.deps.json
+/home/igor/Projects/akimov_tppl/cow/CowInterpreter/bin/Debug/net8.0/CowInterpreter.runtimeconfig.json
+/home/igor/Projects/akimov_tppl/cow/CowInterpreter/bin/Debug/net8.0/CowInterpreter.dll
+/home/igor/Projects/akimov_tppl/cow/CowInterpreter/bin/Debug/net8.0/CowInterpreter.pdb
+/home/igor/Projects/akimov_tppl/cow/CowInterpreter/obj/Debug/net8.0/CowInterpreter.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor/Projects/akimov_tppl/cow/CowInterpreter/obj/Debug/net8.0/CowInterpreter.AssemblyInfoInputs.cache
+/home/igor/Projects/akimov_tppl/cow/CowInterpreter/obj/Debug/net8.0/CowInterpreter.AssemblyInfo.cs
+/home/igor/Projects/akimov_tppl/cow/CowInterpreter/obj/Debug/net8.0/CowInterpreter.csproj.CoreCompileInputs.cache
+/home/igor/Projects/akimov_tppl/cow/CowInterpreter/obj/Debug/net8.0/CowInterpreter.sourcelink.json
+/home/igor/Projects/akimov_tppl/cow/CowInterpreter/obj/Debug/net8.0/CowInterpreter.dll
+/home/igor/Projects/akimov_tppl/cow/CowInterpreter/obj/Debug/net8.0/refint/CowInterpreter.dll
+/home/igor/Projects/akimov_tppl/cow/CowInterpreter/obj/Debug/net8.0/CowInterpreter.pdb
+/home/igor/Projects/akimov_tppl/cow/CowInterpreter/obj/Debug/net8.0/CowInterpreter.genruntimeconfig.cache
+/home/igor/Projects/akimov_tppl/cow/CowInterpreter/obj/Debug/net8.0/ref/CowInterpreter.dll
