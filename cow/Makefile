@@ -18,7 +18,9 @@ test:
 	dotnet test CowInterpreter.sln
 
 coverage:
-	dotnet test CowInterpreter.sln /p:CollectCoverage=true /p:CoverletOutputFormat=opencover
+	dotnet test CowInterpreter.sln /p:CollectCoverage=true /p:CoverletOutputFormat=opencover /p:CoverletOutput=./coverage/
+	reportgenerator -reports:./CowInterpreter.Tests/coverage/coverage.opencover.xml -targetdir:./coverage-report -reporttypes:Html
+	@echo "HTML report generated in ./coverage-report/index.html"
 
 clean:
 	dotnet clean CowInterpreter.sln

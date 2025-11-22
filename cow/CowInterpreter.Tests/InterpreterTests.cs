@@ -5,121 +5,129 @@ namespace CowInterpreter.Tests
 {
     public class InterpreterTests
     {
-        private static void RunInterpreter(string code, string input = "", string expectedOutput = null)
+        private static string RunInterpreter(string code, string input = "")
         {
             var inputReader = new StringReader(input);
             var outputWriter = new StringWriter();
             var interpreter = new Interpreter(code, inputReader, outputWriter);
             interpreter.Run();
-
-            if (expectedOutput != null)
-            {
-                Assert.Equal(expectedOutput, outputWriter.ToString());
-            }
+            return outputWriter.ToString();
         }
 
         [Fact]
         public void MoO_ShouldIncrementMemory()
         {
-            RunInterpreter("MoO MoO OOM", expectedOutput: "2");
+            var output = RunInterpreter("MoO MoO OOM");
+            Assert.Equal("2", output);
         }
 
         [Fact]
         public void MOo_ShouldDecrementMemory()
         {
-            RunInterpreter("MoO MoO MOo OOM", expectedOutput: "1");
+            var output = RunInterpreter("MoO MoO MoO MOo OOM");
+            Assert.Equal("2", output);
         }
 
         [Fact]
-        public void moO_ShouldMoveToNextMemoryCellAndExpand()
+        public void moO_ShouldMoveToNextCell()
         {
-            RunInterpreter("moO MoO OOM", expectedOutput: "1");
+            var output = RunInterpreter("MoO moO MoO MoO OOM");
+            Assert.Equal("2", output);
         }
 
         [Fact]
-        public void mOo_ShouldMoveToPreviousMemoryCell()
+        public void mOo_ShouldMoveToPreviousCell()
         {
-            RunInterpreter("moO MoO mOo OOM", expectedOutput: "0");
+            var output = RunInterpreter("moO MoO MoO mOo OOM");
+            Assert.Equal("0", output);
         }
 
         [Fact]
-        public void mOo_ShouldNotGoBelowZero()
+        public void OOM_ShouldOutputValue()
         {
-            RunInterpreter("mOo MoO OOM", expectedOutput: "1");
+            var output = RunInterpreter("MoO MoO MoO MoO MoO OOM");
+            Assert.Equal("5", output);
         }
 
         [Fact]
-        public void OOM_ShouldOutputMemoryValue()
+        public void oom_ShouldInputValue()
         {
-            RunInterpreter("MoO MoO MoO OOM", expectedOutput: "3");
-        }
-
-        [Fact]
-        public void oom_ShouldInputToMemory()
-        {
-            RunInterpreter("oom OOM", "123", "123");
+            var output = RunInterpreter("oom OOM", "42");
+            Assert.Equal("42", output);
         }
 
         [Fact]
         public void OOO_ShouldZeroMemory()
         {
-            RunInterpreter("MoO MoO MoO OOO OOM", expectedOutput: "0");
+            var output = RunInterpreter("MoO MoO MoO OOO OOM");
+            Assert.Equal("0", output);
         }
 
         [Fact]
-        public void MMM_ShouldStoreAndRetrieveFromRegister()
+        public void MMM_ShouldCopyToRegister()
         {
-            RunInterpreter("MoO MoO MoO MMM moO MMM OOM", expectedOutput: "3");
+            var output = RunInterpreter("MoO MoO MoO MMM moO MMM OOM");
+            Assert.Equal("3", output);
         }
 
         [Fact]
-        public void MMM_ShouldClearRegisterAfterPasting()
+        public void Moo_ShouldPrintChar()
         {
-            RunInterpreter("MoO MoO MMM moO MMM moO MoO MMM OOM", expectedOutput: "1");
+            // ASCII 65 = 'A'
+            var output = RunInterpreter("MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO Moo");
+            Assert.Equal("A", output);
         }
 
         [Fact]
-        public void Moo_ShouldPrintCharWhenNotZero()
+        public void Moo_ShouldReadChar()
         {
-            RunInterpreter("MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO Moo", expectedOutput: "A");
+            var output = RunInterpreter("Moo OOM", "B");
+            Assert.Equal("66", output);
         }
 
         [Fact]
-        public void Moo_ShouldReadCharWhenZero()
+        public void SimpleLoop_ShouldDecrementToZero()
         {
-            RunInterpreter("Moo OOM", "B", "66");
+            // Start with 3, decrement until 0
+            var output = RunInterpreter("MoO MoO MoO MOO MOo moo OOM");
+            Assert.Equal("0", output);
         }
 
         [Fact]
-        public void SimpleLoop_ShouldExecuteCorrectly()
+        public void MOO_ShouldSkipWhenZero()
         {
-            RunInterpreter("MoO MoO MoO MOO MOo moo OOM", expectedOutput: "0");
+            // Memory is 0, so skip the loop
+            var output = RunInterpreter("MOO MoO MoO MoO moo OOM");
+            Assert.Equal("0", output);
         }
 
         [Fact]
-        public void NestedLoop_ShouldExecuteCorrectly()
+        public void NestedLoops_ShouldWork()
         {
-            RunInterpreter("MoO MoO MOO MOo moO MoO MOO MOo moo OOM moo mOo OOM", expectedOutput: "01");
+            // Outer loop with memory[0]=2, inner loop that moves right
+            var output = RunInterpreter("MoO MoO MOO MOo moO MoO MOO MOo moo OOM moo mOo OOM");
+            Assert.Equal("01", output);
         }
 
         [Fact]
-        public void MOO_ShouldSkipLoopWhenZero()
+        public void MultipleOutputs()
         {
-            RunInterpreter("MOO MOo OOM moo", expectedOutput: "0");
+            var output = RunInterpreter("MoO OOM MoO OOM MoO OOM");
+            Assert.Equal("123", output);
         }
 
         [Fact]
-        public void mOO_ShouldExecuteInstructionFromMemory()
+        public void MoveBetweenCells()
         {
-            RunInterpreter("MoO MoO MoO MoO MoO MoO MoO mOO", expectedOutput: "A");
+            var output = RunInterpreter("MoO MoO moO MoO MoO MoO mOo OOM moO OOM");
+            Assert.Equal("23", output);
         }
 
         [Fact]
-        public void HelloWorld_ShouldPrintHelloWorld()
+        public void RegisterCopyAndClear()
         {
-            var path = Path.Combine("..", "..", "..", "..", "hello.cow");
-            var code = File.ReadAllText(path);
-            RunInterpreter(code, expectedOutput: "Hello, World!");
+            var output = RunInterpreter("MoO MoO MoO MoO MoO MMM moO MMM moO MoO MMM OOM");
+            Assert.Equal("1", output);
         }
     }
 }

@@ -59,8 +59,8 @@ namespace CowInterpreter
                     _instructionPtr++;
                     break;
                 case "moo":
+                    // Always jump back to matching MOO
                     int loopDepthBack = 1;
-                    _instructionPtr--;
                     while (loopDepthBack > 0)
                     {
                         _instructionPtr--;
@@ -77,6 +77,7 @@ namespace CowInterpreter
                             loopDepthBack--;
                         }
                     }
+                    // Don't increment instructionPtr - we want to execute the MOO command
                     break;
                 case "MOO":
                     if (_memory[_memoryPtr] == 0)
