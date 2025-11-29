@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CowInterpreter.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fcd91ab3e0a140dd0a882b9b8d3b88925cbc5b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55f2924894f7b5a32cecb13bf3d51b9649402e6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CowInterpreter.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CowInterpreter.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
