@@ -213,17 +213,16 @@ var assemblies = [
   {
     "name": "PascalInterpreter",
     "classes": [
-      { "name": "PascalInterpreter.Assign", "rp": "PascalInterpreter_Assign.html", "cl": 8, "ucl": 1, "cal": 9, "tl": 91, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "PascalInterpreter.Assign", "rp": "PascalInterpreter_Assign.html", "cl": 9, "ucl": 0, "cal": 9, "tl": 91, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "PascalInterpreter.BinOp", "rp": "PascalInterpreter_BinOp.html", "cl": 9, "ucl": 0, "cal": 9, "tl": 91, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "PascalInterpreter.Compound", "rp": "PascalInterpreter_Compound.html", "cl": 5, "ucl": 0, "cal": 5, "tl": 91, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "PascalInterpreter.Interpreter", "rp": "PascalInterpreter_Interpreter.html", "cl": 65, "ucl": 3, "cal": 68, "tl": 97, "cb": 24, "tb": 27, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "PascalInterpreter.Lexer", "rp": "PascalInterpreter_Lexer.html", "cl": 98, "ucl": 1, "cal": 99, "tl": 148, "cb": 58, "tb": 74, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "PascalInterpreter.Num", "rp": "PascalInterpreter_Num.html", "cl": 6, "ucl": 1, "cal": 7, "tl": 91, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "PascalInterpreter.Parser", "rp": "PascalInterpreter_Parser.html", "cl": 124, "ucl": 4, "cal": 128, "tl": 194, "cb": 34, "tb": 36, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "PascalInterpreter.Token", "rp": "PascalInterpreter_Token.html", "cl": 7, "ucl": 3, "cal": 10, "tl": 36, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "PascalInterpreter.Lexer", "rp": "PascalInterpreter_Lexer.html", "cl": 99, "ucl": 0, "cal": 99, "tl": 148, "cb": 60, "tb": 74, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "PascalInterpreter.Num", "rp": "PascalInterpreter_Num.html", "cl": 7, "ucl": 0, "cal": 7, "tl": 91, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "PascalInterpreter.Parser", "rp": "PascalInterpreter_Parser.html", "cl": 128, "ucl": 0, "cal": 128, "tl": 194, "cb": 36, "tb": 36, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "PascalInterpreter.Token", "rp": "PascalInterpreter_Token.html", "cl": 10, "ucl": 0, "cal": 10, "tl": 36, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "PascalInterpreter.UnaryOp", "rp": "PascalInterpreter_UnaryOp.html", "cl": 7, "ucl": 0, "cal": 7, "tl": 91, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "PascalInterpreter.Var", "rp": "PascalInterpreter_Var.html", "cl": 6, "ucl": 1, "cal": 7, "tl": 91, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "Program", "rp": "PascalInterpreter_Program.html", "cl": 0, "ucl": 91, "cal": 91, "tl": 121, "cb": 0, "tb": 10, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "PascalInterpreter.Var", "rp": "PascalInterpreter_Var.html", "cl": 7, "ucl": 0, "cal": 7, "tl": 91, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
     ]},
 ];
 

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<coverage line-rate="0.7613" branch-rate="0.7890999999999999" version="1.9" timestamp="1765590896" lines-covered="335" lines-valid="440" branches-covered="116" branches-valid="147">
+<coverage line-rate="0.7613" branch-rate="0.7890999999999999" version="1.9" timestamp="1765847624" lines-covered="335" lines-valid="440" branches-covered="116" branches-valid="147">
   <sources>
     <source>/Users/igor/univer/akimov_tppl/pascal/PascalInterpreter/</source>
   </sources>

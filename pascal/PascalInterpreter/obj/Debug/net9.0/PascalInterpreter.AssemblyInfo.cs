@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PascalInterpreter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+549e258b5cbc4ed05e65422f3efc73b9469d4a85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3465051a73d2c6db3d4e583d7d1b0b6120c9bf42")]
 [assembly: System.Reflection.AssemblyProductAttribute("PascalInterpreter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PascalInterpreter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
