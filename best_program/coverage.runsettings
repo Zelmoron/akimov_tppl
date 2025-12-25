@@ -6,7 +6,8 @@
         <Configuration>
           <Format>cobertura</Format>
           <Exclude>[xunit.*]*,[*.Tests]*</Exclude>
-          <ExcludeByFile>**/obj/**,**/bin/**,**/Program.cs</ExcludeByFile>
+          <ExcludeByFile>**/obj/**,**/bin/**,**/Program.cs,Program.cs</ExcludeByFile>
+          <ExcludeByAttribute>ExcludeFromCodeCoverage,GeneratedCodeAttribute</ExcludeByAttribute>
         </Configuration>
       </DataCollector>
     </DataCollectors>

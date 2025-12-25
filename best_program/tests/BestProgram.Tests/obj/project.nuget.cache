@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "aLbR/9bKm6s=",
+  "dgSpecHash": "hBkPskl3tXI=",
   "success": true,
   "projectFilePath": "/Users/igor/univer/akimov_tppl/best_program/tests/BestProgram.Tests/BestProgram.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/igor/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/igor/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",
+    "/Users/igor/.nuget/packages/coverlet.msbuild/6.0.4/coverlet.msbuild.6.0.4.nupkg.sha512",
     "/Users/igor/.nuget/packages/microsoft.codecoverage/17.12.0/microsoft.codecoverage.17.12.0.nupkg.sha512",
     "/Users/igor/.nuget/packages/microsoft.net.test.sdk/17.12.0/microsoft.net.test.sdk.17.12.0.nupkg.sha512",
     "/Users/igor/.nuget/packages/microsoft.testplatform.objectmodel/17.12.0/microsoft.testplatform.objectmodel.17.12.0.nupkg.sha512",

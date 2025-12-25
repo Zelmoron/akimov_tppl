@@ -89,5 +89,76 @@ public class DataConsumerAdvancedTests
         mockWriter.Verify(w => w.FlushAsync(), Times.Once);
     }
 
+    [Fact]
+    public async Task RunAsync_WriteThrowsException_ContinuesProcessing()
+    {
+        var mockQueue = new Mock<IDataQueue>();
+        var mockWriter = new Mock<IDataWriter>();
+        var callCount = 0;
+
+        mockQueue.Setup(q => q.TryDequeue(out It.Ref<SensorData?>.IsAny, It.IsAny<int>()))
+            .Returns(new TryDequeueDelegate((out SensorData? data, int timeout) =>
+            {
+                callCount++;
+                if (callCount <= 3)
+                {
+                    data = new SensorData(DateTime.Now, "Test", $"Data{callCount}");
+                    return true;
+                }
+                data = null;
+                return false;
+            }));
+
+        mockWriter.Setup(w => w.WriteAsync(It.IsAny<SensorData>(), It.IsAny<CancellationToken>()))
+            .ThrowsAsync(new IOException("Write error"));
+
+        var consumer = new DataConsumer(mockQueue.Object, mockWriter.Object);
+        var cts = new CancellationTokenSource();
+        cts.CancelAfter(500);
+
+        await consumer.RunAsync(cts.Token);
+
+        mockWriter.Verify(w => w.FlushAsync(), Times.Once);
+    }
+
+    [Fact]
+    public async Task RunAsync_OperationCanceledException_ExitsGracefully()
+    {
+        var mockQueue = new Mock<IDataQueue>();
+        var mockWriter = new Mock<IDataWriter>();
+
+        mockQueue.Setup(q => q.TryDequeue(out It.Ref<SensorData?>.IsAny, It.IsAny<int>()))
+            .Returns(new TryDequeueDelegate((out SensorData? data, int timeout) =>
+            {
+                data = new SensorData(DateTime.Now, "Test", "Data");
+                return true;
+            }));
+
+        mockWriter.Setup(w => w.WriteAsync(It.IsAny<SensorData>(), It.IsAny<CancellationToken>()))
+            .ThrowsAsync(new OperationCanceledException());
+
+        var consumer = new DataConsumer(mockQueue.Object, mockWriter.Object);
+        var cts = new CancellationTokenSource();
+        cts.CancelAfter(200);
+
+        await consumer.RunAsync(cts.Token);
+
+        mockWriter.Verify(w => w.FlushAsync(), Times.Once);
+    }
+
+    [Fact]
+    public void Constructor_NullQueue_ThrowsArgumentNullException()
+    {
+        var mockWriter = new Mock<IDataWriter>();
+        Assert.Throws<ArgumentNullException>(() => new DataConsumer(null!, mockWriter.Object));
+    }
+
+    [Fact]
+    public void Constructor_NullWriter_ThrowsArgumentNullException()
+    {
+        var mockQueue = new Mock<IDataQueue>();
+        Assert.Throws<ArgumentNullException>(() => new DataConsumer(mockQueue.Object, null!));
+    }
+
     private delegate bool TryDequeueDelegate(out SensorData? data, int timeout);
 }
