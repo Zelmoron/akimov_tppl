@@ -1,0 +1,1122 @@
+[2025-12-25 14:05:03] [Coordinates] X: 25, Y: 25, Z: 26
+[2025-12-25 14:05:04] [Coordinates] X: 18, Y: 21, Z: 19
+[2025-12-25 14:05:03] [Weather] Temperature: 29.55°C, Pressure: 1050 hPa
+[2025-12-25 14:05:04] [Weather] Temperature: 28.99°C, Pressure: 1043 hPa
+[2025-12-25 14:05:04] [Coordinates] X: 17, Y: 19, Z: 17
+[2025-12-25 14:05:04] [Weather] Temperature: 28.40°C, Pressure: 1038 hPa
+[2025-12-25 14:05:05] [Weather] Temperature: 27.78°C, Pressure: 1032 hPa
+[2025-12-25 14:05:05] [Coordinates] X: 14, Y: 15, Z: 14
+[2025-12-25 14:05:15] [Coordinates] X: 2, Y: 2, Z: 2
+[2025-12-25 14:05:15] [Weather] Temperature: 19.85°C, Pressure: 1005 hPa
+[2025-12-25 14:05:16] [Weather] Temperature: 19.62°C, Pressure: 998 hPa
+[2025-12-25 14:05:16] [Coordinates] X: -3, Y: -1, Z: -3
+[2025-12-25 14:05:16] [Coordinates] X: 1, Y: -1, Z: 1
+[2025-12-25 14:05:16] [Weather] Temperature: 19.42°C, Pressure: 998 hPa
+[2025-12-25 14:05:17] [Coordinates] X: 1, Y: 3, Z: 1
+[2025-12-25 14:05:17] [Weather] Temperature: 19.24°C, Pressure: 1005 hPa
+[2025-12-25 14:05:19] [Weather] Temperature: 19.09°C, Pressure: 1008 hPa
+[2025-12-25 14:05:19] [Coordinates] X: 3, Y: 4, Z: 3
+[2025-12-25 14:05:19] [Coordinates] X: 1, Y: 1, Z: 1
+[2025-12-25 14:05:19] [Weather] Temperature: 18.95°C, Pressure: 1002 hPa
+[2025-12-25 14:05:20] [Weather] Temperature: 18.83°C, Pressure: 1000 hPa
+[2025-12-25 14:05:20] [Coordinates] X: -3, Y: 0, Z: -3
+[2025-12-25 14:05:20] [Coordinates] X: 0, Y: 0, Z: 0
+[2025-12-25 14:05:20] [Weather] Temperature: 18.71°C, Pressure: 999 hPa
+[2025-12-25 14:05:21] [Coordinates] X: -1, Y: -3, Z: -1
+[2025-12-25 14:05:21] [Weather] Temperature: 18.61°C, Pressure: 994 hPa
+[2025-12-25 14:05:22] [Coordinates] X: -3, Y: -3, Z: -3
+[2025-12-25 14:05:22] [Weather] Temperature: 18.50°C, Pressure: 995 hPa
+[2025-12-25 14:05:32] [Coordinates] X: 16, Y: 16, Z: 17
+[2025-12-25 14:05:32] [Weather] Temperature: 30.64°C, Pressure: 1032 hPa
+[2025-12-25 14:05:33] [Coordinates] X: 19, Y: 22, Z: 19
+[2025-12-25 14:05:33] [Weather] Temperature: 30.14°C, Pressure: 1044 hPa
+[2025-12-25 14:05:43] [Coordinates] X: 17, Y: 19, Z: 17
+[2025-12-25 14:05:43] [Weather] Temperature: 28.24°C, Pressure: 1037 hPa
+[2025-12-25 14:05:44] [Coordinates] X: 14, Y: 15, Z: 14
+[2025-12-25 14:05:44] [Weather] Temperature: 27.62°C, Pressure: 1029 hPa
+[2025-12-25 14:05:54] [Coordinates] X: 1, Y: 3, Z: 1
+[2025-12-25 14:05:54] [Weather] Temperature: 22.72°C, Pressure: 1005 hPa
+[2025-12-25 14:05:55] [Coordinates] X: 4, Y: 2, Z: 4
+[2025-12-25 14:05:55] [Weather] Temperature: 22.18°C, Pressure: 1005 hPa
+[2025-12-25 14:06:05] [Coordinates] X: 1, Y: -2, Z: 1
+[2025-12-25 14:06:05] [Weather] Temperature: 20.86°C, Pressure: 997 hPa
+[2025-12-25 14:06:06] [Weather] Temperature: 20.50°C, Pressure: 998 hPa
+[2025-12-25 14:06:06] [Coordinates] X: -2, Y: -1, Z: -2
+[2025-12-25 14:06:16] [Coordinates] X: 1, Y: 2, Z: 2
+[2025-12-25 14:06:16] [Weather] Temperature: 19.95°C, Pressure: 1006 hPa
+[2025-12-25 14:06:16] [Weather] Temperature: 19.71°C, Pressure: 1001 hPa
+[2025-12-25 14:06:16] [Coordinates] X: -2, Y: -1, Z: -2
+[2025-12-25 14:06:17] [Weather] Temperature: 19.49°C, Pressure: 997 hPa
+[2025-12-25 14:06:17] [Coordinates] X: 1, Y: -1, Z: 1
+[2025-12-25 14:06:17] [Weather] Temperature: 19.31°C, Pressure: 1003 hPa
+[2025-12-25 14:06:17] [Coordinates] X: 0, Y: 3, Z: 1
+[2025-12-25 14:06:18] [Weather] Temperature: 19.14°C, Pressure: 1008 hPa
+[2025-12-25 14:06:18] [Coordinates] X: 5, Y: 4, Z: 4
+[2025-12-25 14:06:18] [Coordinates] X: 0, Y: 1, Z: 1
+[2025-12-25 14:06:18] [Weather] Temperature: 19.00°C, Pressure: 1005 hPa
+[2025-12-25 14:06:29] [Coordinates] X: -4, Y: -2, Z: -4
+[2025-12-25 14:06:29] [Weather] Temperature: 17.91°C, Pressure: 996 hPa
+[2025-12-25 14:06:29] [Weather] Temperature: 17.81°C, Pressure: 986 hPa
+[2025-12-25 14:06:29] [Coordinates] X: -7, Y: -7, Z: -7
+[2025-12-25 14:06:39] [Weather] Temperature: 18.88°C, Pressure: 1000 hPa
+[2025-12-25 14:06:39] [Coordinates] X: 2, Y: 0, Z: 2
+[2025-12-25 14:06:40] [Weather] Temperature: 18.77°C, Pressure: 1000 hPa
+[2025-12-25 14:06:40] [Coordinates] X: 0, Y: -2, Z: 0
+[2025-12-25 14:06:41] [Coordinates] X: -2, Y: -3, Z: -3
+[2025-12-25 14:06:41] [Weather] Temperature: 18.66°C, Pressure: 997 hPa
+[2025-12-25 14:06:41] [Coordinates] X: -2, Y: 0, Z: -2
+[2025-12-25 14:06:41] [Weather] Temperature: 18.55°C, Pressure: 994 hPa
+[2025-12-25 14:06:42] [Coordinates] X: 6, Y: 4, Z: 6
+[2025-12-25 14:06:42] [Weather] Temperature: 18.45°C, Pressure: 999 hPa
+[2025-12-25 14:06:42] [Coordinates] X: 5, Y: 6, Z: 5
+[2025-12-25 14:06:42] [Weather] Temperature: 18.34°C, Pressure: 1008 hPa
+[2025-12-25 14:06:43] [Coordinates] X: 2, Y: 3, Z: 2
+[2025-12-25 14:06:43] [Weather] Temperature: 18.23°C, Pressure: 1012 hPa
+[2025-12-25 14:06:43] [Coordinates] X: 0, Y: 0, Z: 0
+[2025-12-25 14:06:43] [Weather] Temperature: 18.12°C, Pressure: 1006 hPa
+[2025-12-25 14:06:44] [Coordinates] X: -5, Y: -3, Z: -5
+[2025-12-25 14:06:44] [Weather] Temperature: 18.01°C, Pressure: 1000 hPa
+[2025-12-25 14:06:44] [Coordinates] X: -8, Y: -7, Z: -8
+[2025-12-25 14:06:44] [Weather] Temperature: 17.89°C, Pressure: 994 hPa
+[2025-12-25 14:06:55] [Coordinates] X: 2, Y: 3, Z: 2
+[2025-12-25 14:06:55] [Weather] Temperature: 18.12°C, Pressure: 1006 hPa
+[2025-12-25 14:06:55] [Coordinates] X: 0, Y: 0, Z: 0
+[2025-12-25 14:06:55] [Weather] Temperature: 18.01°C, Pressure: 1000 hPa
+[2025-12-25 14:06:56] [Weather] Temperature: 17.90°C, Pressure: 994 hPa
+[2025-12-25 14:06:56] [Coordinates] X: -4, Y: -3, Z: -4
+[2025-12-25 14:06:56] [Weather] Temperature: 17.80°C, Pressure: 985 hPa
+[2025-12-25 14:06:56] [Coordinates] X: -8, Y: -7, Z: -8
+[2025-12-25 14:06:57] [Coordinates] X: -4, Y: -6, Z: -4
+[2025-12-25 14:06:57] [Weather] Temperature: 17.72°C, Pressure: 987 hPa
+[2025-12-25 14:06:57] [Coordinates] X: 0, Y: -1, Z: 0
+[2025-12-25 14:06:57] [Weather] Temperature: 17.67°C, Pressure: 997 hPa
+[2025-12-25 14:06:58] [Coordinates] X: 3, Y: 3, Z: 3
+[2025-12-25 14:06:58] [Coordinates] X: 2, Y: 2, Z: 2
+[2025-12-25 14:06:58] [Weather] Temperature: 17.65°C, Pressure: 1006 hPa
+[2025-12-25 14:06:58] [Weather] Temperature: 17.68°C, Pressure: 1004 hPa
+[2025-12-25 14:06:59] [Weather] Temperature: 17.74°C, Pressure: 997 hPa
+[2025-12-25 14:06:59] [Coordinates] X: -1, Y: -2, Z: -1
+[2025-12-25 14:06:59] [Weather] Temperature: 17.85°C, Pressure: 995 hPa
+[2025-12-25 14:06:59] [Coordinates] X: -3, Y: -2, Z: -4
+[2025-12-25 14:07:00] [Coordinates] X: -3, Y: -5, Z: -3
+[2025-12-25 14:07:00] [Weather] Temperature: 17.98°C, Pressure: 990 hPa
+[2025-12-25 14:07:00] [Coordinates] X: -5, Y: -5, Z: -5
+[2025-12-25 14:07:00] [Weather] Temperature: 18.16°C, Pressure: 990 hPa
+[2025-12-25 14:07:01] [Coordinates] X: -3, Y: 0, Z: -3
+[2025-12-25 14:07:01] [Weather] Temperature: 18.36°C, Pressure: 1000 hPa
+[2025-12-25 14:07:01] [Coordinates] X: 6, Y: 5, Z: 6
+[2025-12-25 14:07:01] [Weather] Temperature: 18.59°C, Pressure: 1010 hPa
+[2025-12-25 14:07:02] [Weather] Temperature: 18.83°C, Pressure: 1007 hPa
+[2025-12-25 14:07:02] [Coordinates] X: 3, Y: 4, Z: 3
+[2025-12-25 14:07:02] [Weather] Temperature: 19.09°C, Pressure: 999 hPa
+[2025-12-25 14:07:02] [Coordinates] X: 1, Y: 0, Z: 1
+[2025-12-25 14:07:03] [Coordinates] X: 1, Y: 0, Z: 1
+[2025-12-25 14:07:03] [Weather] Temperature: 19.36°C, Pressure: 1000 hPa
+[2025-12-25 14:07:03] [Coordinates] X: -1, Y: -1, Z: -1
+[2025-12-25 14:07:03] [Weather] Temperature: 19.63°C, Pressure: 998 hPa
+[2025-12-25 14:07:04] [Weather] Temperature: 19.89°C, Pressure: 988 hPa
+[2025-12-25 14:07:09] [Coordinates] X: 23, Y: 25, Z: 24
+[2025-12-25 14:07:09] [Weather] Temperature: 24.78°C, Pressure: 1042 hPa
+[2025-12-25 14:07:10] [Coordinates] X: 28, Y: 30, Z: 28
+[2025-12-25 14:07:10] [Weather] Temperature: 27.42°C, Pressure: 1050 hPa
+[2025-12-25 14:07:10] [Coordinates] X: 31, Y: 33, Z: 31
+[2025-12-25 14:07:10] [Weather] Temperature: 29.96°C, Pressure: 1060 hPa
+[2025-12-25 14:07:11] [Coordinates] X: 32, Y: 34, Z: 32
+[2025-12-25 14:07:11] [Weather] Temperature: 32.38°C, Pressure: 1067 hPa
+[2025-12-25 14:07:11] [Coordinates] X: 32, Y: 34, Z: 33
+[2025-12-25 14:07:11] [Weather] Temperature: 34.65°C, Pressure: 1068 hPa
+[2025-12-25 14:07:12] [Coordinates] X: 33, Y: 34, Z: 34
+[2025-12-25 14:07:12] [Weather] Temperature: 36.73°C, Pressure: 1068 hPa
+[2025-12-25 14:07:12] [Coordinates] X: 34, Y: 36, Z: 34
+[2025-12-25 14:07:12] [Weather] Temperature: 38.61°C, Pressure: 1068 hPa
+[2025-12-25 14:07:13] [Coordinates] X: 36, Y: 38, Z: 36
+[2025-12-25 14:07:13] [Weather] Temperature: 40.26°C, Pressure: 1072 hPa
+[2025-12-25 14:07:13] [Coordinates] X: 37, Y: 40, Z: 37
+[2025-12-25 14:07:13] [Weather] Temperature: 41.69°C, Pressure: 1077 hPa
+[2025-12-25 14:07:14] [Weather] Temperature: 42.89°C, Pressure: 1080 hPa
+[2025-12-25 14:07:14] [Coordinates] X: 41, Y: 42, Z: 41
+[2025-12-25 14:07:14] [Coordinates] X: 42, Y: 45, Z: 43
+[2025-12-25 14:07:14] [Weather] Temperature: 43.88°C, Pressure: 1085 hPa
+[2025-12-25 14:07:15] [Coordinates] X: 43, Y: 47, Z: 44
+[2025-12-25 14:07:15] [Weather] Temperature: 44.65°C, Pressure: 1090 hPa
+[2025-12-25 14:07:15] [Coordinates] X: 44, Y: 47, Z: 45
+[2025-12-25 14:07:15] [Weather] Temperature: 45.25°C, Pressure: 1093 hPa
+[2025-12-25 14:07:16] [Coordinates] X: 44, Y: 48, Z: 44
+[2025-12-25 14:07:16] [Weather] Temperature: 45.69°C, Pressure: 1094 hPa
+[2025-12-25 14:07:16] [Coordinates] X: 47, Y: 48, Z: 47
+[2025-12-25 14:07:16] [Weather] Temperature: 46.00°C, Pressure: 1096 hPa
+[2025-12-25 14:07:17] [Coordinates] X: 45, Y: 47, Z: 45
+[2025-12-25 14:07:17] [Weather] Temperature: 46.22°C, Pressure: 1097 hPa
+[2025-12-25 14:07:17] [Weather] Temperature: 46.39°C, Pressure: 1095 hPa
+[2025-12-25 14:07:17] [Coordinates] X: 43, Y: 45, Z: 44
+[2025-12-25 14:07:18] [Coordinates] X: 37, Y: 42, Z: 38
+[2025-12-25 14:07:18] [Weather] Temperature: 46.54°C, Pressure: 1090 hPa
+[2025-12-25 14:07:18] [Weather] Temperature: 46.69°C, Pressure: 1083 hPa
+[2025-12-25 14:07:18] [Coordinates] X: 39, Y: 42, Z: 39
+[2025-12-25 14:07:19] [Coordinates] X: 41, Y: 43, Z: 42
+[2025-12-25 14:07:19] [Weather] Temperature: 46.86°C, Pressure: 1083 hPa
+[2025-12-25 14:07:19] [Coordinates] X: 42, Y: 45, Z: 42
+[2025-12-25 14:07:19] [Weather] Temperature: 47.06°C, Pressure: 1087 hPa
+[2025-12-25 14:07:25] [Weather] Temperature: 35.99°C, Pressure: 1068 hPa
+[2025-12-25 14:07:25] [Coordinates] X: 33, Y: 34, Z: 34
+[2025-12-25 14:07:25] [Coordinates] X: 33, Y: 34, Z: 33
+[2025-12-25 14:07:25] [Weather] Temperature: 37.95°C, Pressure: 1068 hPa
+[2025-12-25 14:07:26] [Coordinates] X: 34, Y: 36, Z: 35
+[2025-12-25 14:07:26] [Coordinates] X: 36, Y: 38, Z: 36
+[2025-12-25 14:07:27] [Coordinates] X: 37, Y: 40, Z: 38
+[2025-12-25 14:07:27] [Coordinates] X: 41, Y: 43, Z: 41
+[2025-12-25 14:07:28] [Coordinates] X: 42, Y: 45, Z: 43
+[2025-12-25 14:07:28] [Coordinates] X: 43, Y: 47, Z: 44
+[2025-12-25 14:07:29] [Coordinates] X: 45, Y: 47, Z: 45
+[2025-12-25 14:07:29] [Coordinates] X: 43, Y: 48, Z: 44
+[2025-12-25 14:07:30] [Coordinates] X: 47, Y: 48, Z: 48
+[2025-12-25 14:07:30] [Coordinates] X: 45, Y: 47, Z: 45
+[2025-12-25 14:07:31] [Coordinates] X: 43, Y: 45, Z: 43
+[2025-12-25 14:07:31] [Coordinates] X: 37, Y: 42, Z: 38
+[2025-12-25 14:07:32] [Coordinates] X: 38, Y: 42, Z: 39
+[2025-12-25 14:07:32] [Coordinates] X: 42, Y: 43, Z: 42
+[2025-12-25 14:07:33] [Coordinates] X: 42, Y: 45, Z: 43
+[2025-12-25 14:07:33] [Coordinates] X: 40, Y: 43, Z: 40
+[2025-12-25 14:07:34] [Coordinates] X: 39, Y: 40, Z: 40
+[2025-12-25 14:07:34] [Coordinates] X: 37, Y: 39, Z: 36
+[2025-12-25 14:07:35] [Coordinates] X: 36, Y: 40, Z: 36
+[2025-12-25 14:07:35] [Coordinates] X: 39, Y: 40, Z: 39
+[2025-12-25 14:07:36] [Weather] Temperature: 41.57°C, Pressure: 1076 hPa
+[2025-12-25 14:07:36] [Coordinates] X: 38, Y: 41, Z: 39
+[2025-12-25 14:07:36] [Weather] Temperature: 42.80°C, Pressure: 1080 hPa
+[2025-12-25 14:07:36] [Coordinates] X: 39, Y: 41, Z: 39
+[2025-12-25 14:07:37] [Weather] Temperature: 43.80°C, Pressure: 1085 hPa
+[2025-12-25 14:07:37] [Weather] Temperature: 44.59°C, Pressure: 1090 hPa
+[2025-12-25 14:07:38] [Weather] Temperature: 45.20°C, Pressure: 1093 hPa
+[2025-12-25 14:07:38] [Weather] Temperature: 45.65°C, Pressure: 1094 hPa
+[2025-12-25 14:07:39] [Weather] Temperature: 45.98°C, Pressure: 1096 hPa
+[2025-12-25 14:07:39] [Weather] Temperature: 46.21°C, Pressure: 1097 hPa
+[2025-12-25 14:07:40] [Weather] Temperature: 46.38°C, Pressure: 1095 hPa
+[2025-12-25 14:07:40] [Weather] Temperature: 46.52°C, Pressure: 1090 hPa
+[2025-12-25 14:07:41] [Weather] Temperature: 46.67°C, Pressure: 1084 hPa
+[2025-12-25 14:07:41] [Weather] Temperature: 46.84°C, Pressure: 1083 hPa
+[2025-12-25 14:07:42] [Coordinates] X: 46, Y: 47, Z: 46
+[2025-12-25 14:07:42] [Weather] Temperature: 47.04°C, Pressure: 1086 hPa
+[2025-12-25 14:07:42] [Coordinates] X: 42, Y: 44, Z: 42
+[2025-12-25 14:07:42] [Weather] Temperature: 47.27°C, Pressure: 1089 hPa
+[2025-12-25 14:07:43] [Weather] Temperature: 47.49°C, Pressure: 1087 hPa
+[2025-12-25 14:07:43] [Coordinates] X: 38, Y: 41, Z: 38
+[2025-12-25 14:07:43] [Coordinates] X: 37, Y: 42, Z: 38
+[2025-12-25 14:07:43] [Weather] Temperature: 47.66°C, Pressure: 1081 hPa
+[2025-12-25 14:07:44] [Coordinates] X: 44, Y: 44, Z: 45
+[2025-12-25 14:07:44] [Weather] Temperature: 47.75°C, Pressure: 1079 hPa
+[2025-12-25 14:07:44] [Coordinates] X: 43, Y: 45, Z: 43
+[2025-12-25 14:07:44] [Weather] Temperature: 47.76°C, Pressure: 1079 hPa
+[2025-12-25 14:07:45] [Coordinates] X: 40, Y: 43, Z: 40
+[2025-12-25 14:07:45] [Weather] Temperature: 47.70°C, Pressure: 1081 hPa
+[2025-12-25 14:07:45] [Coordinates] X: 39, Y: 40, Z: 40
+[2025-12-25 14:07:46] [Coordinates] X: 36, Y: 39, Z: 37
+[2025-12-25 14:07:46] [Weather] Temperature: 47.57°C, Pressure: 1081 hPa
+[2025-12-25 14:07:46] [Coordinates] X: 37, Y: 40, Z: 37
+[2025-12-25 14:07:46] [Weather] Temperature: 47.39°C, Pressure: 1081 hPa
+[2025-12-25 14:07:47] [Coordinates] X: 39, Y: 40, Z: 39
+[2025-12-25 14:07:47] [Weather] Temperature: 47.15°C, Pressure: 1083 hPa
+[2025-12-25 14:07:47] [Coordinates] X: 39, Y: 41, Z: 39
+[2025-12-25 14:07:47] [Weather] Temperature: 46.85°C, Pressure: 1084 hPa
+[2025-12-25 14:07:48] [Coordinates] X: 37, Y: 41, Z: 37
+[2025-12-25 14:07:48] [Coordinates] X: 38, Y: 42, Z: 38
+[2025-12-25 14:07:49] [Coordinates] X: 42, Y: 42, Z: 42
+[2025-12-25 14:07:49] [Coordinates] X: 37, Y: 42, Z: 38
+[2025-12-25 14:07:50] [Coordinates] X: 40, Y: 41, Z: 40
+[2025-12-25 14:07:50] [Coordinates] X: 39, Y: 41, Z: 40
+[2025-12-25 14:07:51] [Coordinates] X: 38, Y: 43, Z: 38
+[2025-12-25 14:07:53] [Weather] Temperature: 46.14°C, Pressure: 1097 hPa
+[2025-12-25 14:07:54] [Weather] Temperature: 46.33°C, Pressure: 1096 hPa
+[2025-12-25 14:07:54] [Weather] Temperature: 46.48°C, Pressure: 1092 hPa
+[2025-12-25 14:07:55] [Weather] Temperature: 46.62°C, Pressure: 1085 hPa
+[2025-12-25 14:07:55] [Weather] Temperature: 46.79°C, Pressure: 1083 hPa
+[2025-12-25 14:07:56] [Coordinates] X: 42, Y: 43, Z: 42
+[2025-12-25 14:07:56] [Coordinates] X: 42, Y: 45, Z: 43
+[2025-12-25 14:07:57] [Coordinates] X: 40, Y: 43, Z: 40
+[2025-12-25 14:07:58] [Coordinates] X: 39, Y: 40, Z: 40
+[2025-12-25 14:07:58] [Coordinates] X: 37, Y: 39, Z: 36
+[2025-12-25 14:07:59] [Coordinates] X: 36, Y: 40, Z: 36
+[2025-12-25 14:07:59] [Coordinates] X: 39, Y: 40, Z: 39
+[2025-12-25 14:08:06] [Weather] Temperature: 47.76°C, Pressure: 1078 hPa
+[2025-12-25 14:08:06] [Weather] Temperature: 47.74°C, Pressure: 1079 hPa
+[2025-12-25 14:08:10] [Coordinates] X: 40, Y: 43, Z: 40
+[2025-12-25 14:08:10] [Coordinates] X: 39, Y: 40, Z: 40
+[2025-12-25 14:08:11] [Coordinates] X: 36, Y: 39, Z: 37
+[2025-12-25 14:08:11] [Coordinates] X: 37, Y: 40, Z: 37
+[2025-12-25 14:08:17] [Weather] Temperature: 47.67°C, Pressure: 1081 hPa
+[2025-12-25 14:08:18] [Weather] Temperature: 47.53°C, Pressure: 1081 hPa
+[2025-12-25 14:08:18] [Weather] Temperature: 47.33°C, Pressure: 1081 hPa
+[2025-12-25 14:08:19] [Weather] Temperature: 47.07°C, Pressure: 1083 hPa
+[2025-12-25 14:08:19] [Weather] Temperature: 46.76°C, Pressure: 1084 hPa
+[2025-12-25 14:08:22] [Coordinates] X: 42, Y: 42, Z: 42
+[2025-12-25 14:08:22] [Coordinates] X: 37, Y: 42, Z: 38
+[2025-12-25 14:08:23] [Coordinates] X: 40, Y: 41, Z: 40
+[2025-12-25 14:08:23] [Coordinates] X: 39, Y: 41, Z: 40
+[2025-12-25 14:08:30] [Weather] Temperature: 36.44°C, Pressure: 1090 hPa
+[2025-12-25 14:08:31] [Weather] Temperature: 35.96°C, Pressure: 1081 hPa
+[2025-12-25 14:08:31] [Weather] Temperature: 35.48°C, Pressure: 1073 hPa
+[2025-12-25 14:08:32] [Weather] Temperature: 35.02°C, Pressure: 1072 hPa
+[2025-12-25 14:08:33] [Weather] Temperature: 34.57°C, Pressure: 1069 hPa
+[2025-12-25 14:08:34] [Coordinates] X: 46, Y: 49, Z: 47
+[2025-12-25 14:08:34] [Weather] Temperature: 34.13°C, Pressure: 1061 hPa
+[2025-12-25 14:08:35] [Coordinates] X: 45, Y: 48, Z: 46
+[2025-12-25 14:08:34] [Weather] Temperature: 33.71°C, Pressure: 1052 hPa
+[2025-12-25 14:08:35] [Weather] Temperature: 33.28°C, Pressure: 1042 hPa
+[2025-12-25 14:08:35] [Coordinates] X: 41, Y: 45, Z: 42
+[2025-12-25 14:08:36] [Coordinates] X: 43, Y: 45, Z: 44
+[2025-12-25 14:08:36] [Weather] Temperature: 32.86°C, Pressure: 1032 hPa
+[2025-12-25 14:08:36] [Weather] Temperature: 32.44°C, Pressure: 1032 hPa
+[2025-12-25 14:08:37] [Weather] Temperature: 32.01°C, Pressure: 1037 hPa
+[2025-12-25 14:08:37] [Weather] Temperature: 31.57°C, Pressure: 1036 hPa
+[2025-12-25 14:08:46] [Coordinates] X: 46, Y: 48, Z: 46
+[2025-12-25 14:08:47] [Coordinates] X: 46, Y: 49, Z: 47
+[2025-12-25 14:08:48] [Weather] Temperature: 43.64°C, Pressure: 1082 hPa
+[2025-12-25 14:08:48] [Weather] Temperature: 43.05°C, Pressure: 1086 hPa
+[2025-12-25 14:08:49] [Weather] Temperature: 42.46°C, Pressure: 1096 hPa
+[2025-12-25 14:08:50] [Weather] Temperature: 41.87°C, Pressure: 1098 hPa
+[2025-12-25 14:08:51] [Weather] Temperature: 41.30°C, Pressure: 1093 hPa
+[2025-12-25 14:08:57] [Coordinates] X: 46, Y: 49, Z: 47
+[2025-12-25 14:08:58] [Coordinates] X: 45, Y: 48, Z: 45
+[2025-12-25 14:08:58] [Coordinates] X: 41, Y: 45, Z: 42
+[2025-12-25 14:08:59] [Coordinates] X: 43, Y: 46, Z: 44
+[2025-12-25 14:08:59] [Coordinates] X: 45, Y: 47, Z: 45
+[2025-12-25 14:09:00] [Coordinates] X: 43, Y: 46, Z: 43
+[2025-12-25 14:09:00] [Coordinates] X: 44, Y: 44, Z: 44
+[2025-12-25 14:09:01] [Coordinates] X: 40, Y: 43, Z: 40
+[2025-12-25 14:09:01] [Weather] Temperature: 30.05°C, Pressure: 1045 hPa
+[2025-12-25 14:09:02] [Coordinates] X: 36, Y: 38, Z: 36
+[2025-12-25 14:09:02] [Weather] Temperature: 29.52°C, Pressure: 1050 hPa
+[2025-12-25 14:09:02] [Weather] Temperature: 28.96°C, Pressure: 1043 hPa
+[2025-12-25 14:09:03] [Weather] Temperature: 28.37°C, Pressure: 1038 hPa
+[2025-12-25 14:09:03] [Weather] Temperature: 27.75°C, Pressure: 1032 hPa
+[2025-12-25 14:09:04] [Weather] Temperature: 27.11°C, Pressure: 1023 hPa
+[2025-12-25 14:09:05] [Weather] Temperature: 26.45°C, Pressure: 1022 hPa
+[2025-12-25 14:09:06] [Weather] Temperature: 25.78°C, Pressure: 1026 hPa
+[2025-12-25 14:09:06] [Weather] Temperature: 25.11°C, Pressure: 1027 hPa
+[2025-12-25 14:09:07] [Weather] Temperature: 24.45°C, Pressure: 1020 hPa
+[2025-12-25 14:09:08] [Weather] Temperature: 23.81°C, Pressure: 1011 hPa
+[2025-12-25 14:09:09] [Weather] Temperature: 23.21°C, Pressure: 1007 hPa
+[2025-12-25 14:09:09] [Weather] Temperature: 22.64°C, Pressure: 1005 hPa
+[2025-12-25 14:09:10] [Weather] Temperature: 22.11°C, Pressure: 1005 hPa
+[2025-12-25 14:09:10] [Weather] Temperature: 21.62°C, Pressure: 1003 hPa
+[2025-12-25 14:09:12] [Coordinates] X: 38, Y: 41, Z: 38
+[2025-12-25 14:09:13] [Coordinates] X: 42, Y: 45, Z: 43
+[2025-12-25 14:09:15] [Weather] Temperature: 39.00°C, Pressure: 1088 hPa
+[2025-12-25 14:09:16] [Weather] Temperature: 38.56°C, Pressure: 1084 hPa
+[2025-12-25 14:09:16] [Weather] Temperature: 38.12°C, Pressure: 1075 hPa
+[2025-12-25 14:09:17] [Weather] Temperature: 37.67°C, Pressure: 1073 hPa
+[2025-12-25 14:09:18] [Weather] Temperature: 37.19°C, Pressure: 1082 hPa
+[2025-12-25 14:09:24] [Coordinates] X: 41, Y: 43, Z: 41
+[2025-12-25 14:09:24] [Coordinates] X: 43, Y: 45, Z: 43
+[2025-12-25 14:09:25] [Coordinates] X: 38, Y: 42, Z: 38
+[2025-12-25 14:09:25] [Coordinates] X: 34, Y: 37, Z: 34
+[2025-12-25 14:09:26] [Coordinates] X: 37, Y: 36, Z: 37
+[2025-12-25 14:09:28] [Weather] Temperature: 32.97°C, Pressure: 1034 hPa
+[2025-12-25 14:09:29] [Weather] Temperature: 32.55°C, Pressure: 1031 hPa
+[2025-12-25 14:09:29] [Weather] Temperature: 32.12°C, Pressure: 1036 hPa
+[2025-12-25 14:09:30] [Weather] Temperature: 31.68°C, Pressure: 1037 hPa
+[2025-12-25 14:09:36] [Coordinates] X: 23, Y: 25, Z: 23
+[2025-12-25 14:09:37] [Coordinates] X: 25, Y: 24, Z: 25
+[2025-12-25 14:09:37] [Coordinates] X: 16, Y: 20, Z: 16
+[2025-12-25 14:09:38] [Coordinates] X: 20, Y: 18, Z: 20
+[2025-12-25 14:09:40] [Weather] Temperature: 31.61°C, Pressure: 1036 hPa
+[2025-12-25 14:09:41] [Weather] Temperature: 31.16°C, Pressure: 1029 hPa
+[2025-12-25 14:09:48] [Coordinates] X: 17, Y: 15, Z: 17
+[2025-12-25 14:09:49] [Coordinates] X: 17, Y: 20, Z: 18
+[2025-12-25 14:09:51] [Weather] Temperature: 19.00°C, Pressure: 1005 hPa
+[2025-12-25 14:09:52] [Weather] Temperature: 18.88°C, Pressure: 1000 hPa
+[2025-12-25 14:09:53] [Weather] Temperature: 18.76°C, Pressure: 1000 hPa
+[2025-12-25 14:09:53] [Weather] Temperature: 18.65°C, Pressure: 996 hPa
+[2025-12-25 14:09:55] [Weather] Temperature: 18.55°C, Pressure: 994 hPa
+[2025-12-25 14:09:55] [Weather] Temperature: 18.44°C, Pressure: 999 hPa
+[2025-12-25 14:09:56] [Weather] Temperature: 18.33°C, Pressure: 1008 hPa
+[2025-12-25 14:09:56] [Weather] Temperature: 18.22°C, Pressure: 1012 hPa
+[2025-12-25 14:09:57] [Weather] Temperature: 18.11°C, Pressure: 1005 hPa
+[2025-12-25 14:09:57] [Weather] Temperature: 18.00°C, Pressure: 1000 hPa
+[2025-12-25 14:09:58] [Weather] Temperature: 17.89°C, Pressure: 994 hPa
+[2025-12-25 14:09:58] [Weather] Temperature: 17.79°C, Pressure: 985 hPa
+[2025-12-25 14:09:59] [Weather] Temperature: 17.71°C, Pressure: 988 hPa
+[2025-12-25 14:09:59] [Weather] Temperature: 17.67°C, Pressure: 998 hPa
+[2025-12-25 14:09:59] [Coordinates] X: 15, Y: 18, Z: 15
+[2025-12-25 14:10:00] [Weather] Temperature: 17.65°C, Pressure: 1007 hPa
+[2025-12-25 14:10:00] [Coordinates] X: 12, Y: 14, Z: 12
+[2025-12-25 14:10:00] [Weather] Temperature: 17.68°C, Pressure: 1003 hPa
+[2025-12-25 14:10:05] [Weather] Temperature: 24.93°C, Pressure: 1026 hPa
+[2025-12-25 14:10:06] [Weather] Temperature: 24.27°C, Pressure: 1017 hPa
+[2025-12-25 14:10:11] [Coordinates] X: 25, Y: 24, Z: 25
+[2025-12-25 14:10:11] [Coordinates] X: 16, Y: 20, Z: 16
+[2025-12-25 14:10:12] [Coordinates] X: 20, Y: 18, Z: 20
+[2025-12-25 14:10:16] [Weather] Temperature: 18.94°C, Pressure: 1002 hPa
+[2025-12-25 14:10:17] [Weather] Temperature: 18.82°C, Pressure: 1000 hPa
+[2025-12-25 14:10:22] [Coordinates] X: 9, Y: 9, Z: 9
+[2025-12-25 14:10:23] [Coordinates] X: 6, Y: 5, Z: 6
+[2025-12-25 14:10:23] [Coordinates] X: 3, Y: 3, Z: 3
+[2025-12-25 14:10:24] [Coordinates] X: 2, Y: 3, Z: 1
+[2025-12-25 14:10:25] [Coordinates] X: 4, Y: 2, Z: 4
+[2025-12-25 14:10:27] [Weather] Temperature: 22.81°C, Pressure: 1005 hPa
+[2025-12-25 14:10:28] [Weather] Temperature: 22.27°C, Pressure: 1005 hPa
+[2025-12-25 14:10:36] [Coordinates] X: 4, Y: 4, Z: 4
+[2025-12-25 14:10:36] [Coordinates] X: -1, Y: 1, Z: -1
+[2025-12-25 14:10:38] [Weather] Temperature: 20.73°C, Pressure: 996 hPa
+[2025-12-25 14:10:39] [Weather] Temperature: 20.38°C, Pressure: 1000 hPa
+[2025-12-25 14:10:46] [Coordinates] X: 2, Y: 2, Z: 2
+[2025-12-25 14:10:47] [Coordinates] X: -3, Y: 0, Z: -3
+[2025-12-25 14:10:50] [Weather] Temperature: 19.02°C, Pressure: 1006 hPa
+[2025-12-25 14:10:51] [Weather] Temperature: 18.89°C, Pressure: 1000 hPa
+[2025-12-25 14:10:51] [Weather] Temperature: 18.78°C, Pressure: 1000 hPa
+[2025-12-25 14:10:52] [Weather] Temperature: 18.67°C, Pressure: 997 hPa
+[2025-12-25 14:10:52] [Weather] Temperature: 18.56°C, Pressure: 993 hPa
+[2025-12-25 14:10:58] [Coordinates] X: 6, Y: 4, Z: 6
+[2025-12-25 14:10:58] [Coordinates] X: 5, Y: 6, Z: 5
+[2025-12-25 14:11:03] [Weather] Temperature: 23.15°C, Pressure: 1039 hPa
+[2025-12-25 14:11:03] [Weather] Temperature: 25.83°C, Pressure: 1045 hPa
+[2025-12-25 14:11:08] [Coordinates] X: 0, Y: -2, Z: 0
+[2025-12-25 14:11:09] [Coordinates] X: -3, Y: -3, Z: -3
+[2025-12-25 14:11:10] [Coordinates] X: -1, Y: 0, Z: -1
+[2025-12-25 14:11:11] [Coordinates] X: 6, Y: 5, Z: 6
+[2025-12-25 14:11:11] [Coordinates] X: 5, Y: 6, Z: 5
+[2025-12-25 14:11:13] [Weather] Temperature: 18.49°C, Pressure: 996 hPa
+[2025-12-25 14:11:14] [Weather] Temperature: 18.39°C, Pressure: 1004 hPa
+[2025-12-25 14:11:15] [Weather] Temperature: 18.28°C, Pressure: 1011 hPa
+[2025-12-25 14:11:15] [Weather] Temperature: 18.17°C, Pressure: 1009 hPa
+[2025-12-25 14:11:22] [Coordinates] X: 34, Y: 34, Z: 34
+[2025-12-25 14:11:22] [Coordinates] X: 32, Y: 34, Z: 33
+[2025-12-25 14:11:26] [Weather] Temperature: 26.43°C, Pressure: 1046 hPa
+[2025-12-25 14:11:26] [Weather] Temperature: 29.02°C, Pressure: 1056 hPa
+[2025-12-25 14:11:33] [Coordinates] X: 35, Y: 37, Z: 36
+[2025-12-25 14:11:33] [Coordinates] X: 38, Y: 39, Z: 38
+[2025-12-25 14:11:37] [Weather] Temperature: 31.62°C, Pressure: 1065 hPa
+[2025-12-25 14:11:37] [Weather] Temperature: 33.94°C, Pressure: 1068 hPa
+[2025-12-25 14:11:44] [Coordinates] X: 45, Y: 47, Z: 45
+[2025-12-25 14:11:44] [Coordinates] X: 46, Y: 47, Z: 46
+[2025-12-25 14:11:48] [Weather] Temperature: 44.76°C, Pressure: 1091 hPa
+[2025-12-25 14:11:48] [Weather] Temperature: 45.33°C, Pressure: 1093 hPa
+[2025-12-25 14:11:55] [Coordinates] X: 45, Y: 48, Z: 45
+[2025-12-25 14:11:55] [Coordinates] X: 45, Y: 48, Z: 45
+[2025-12-25 14:11:59] [Weather] Temperature: 43.01°C, Pressure: 1081 hPa
+[2025-12-25 14:11:59] [Weather] Temperature: 43.97°C, Pressure: 1086 hPa
+[2025-12-25 14:12:00] [Weather] Temperature: 44.73°C, Pressure: 1091 hPa
+[2025-12-25 14:12:00] [Weather] Temperature: 45.30°C, Pressure: 1093 hPa
+[2025-12-25 14:12:01] [Weather] Temperature: 45.73°C, Pressure: 1095 hPa
+[2025-12-25 14:12:01] [Weather] Temperature: 46.03°C, Pressure: 1096 hPa
+[2025-12-25 14:12:02] [Weather] Temperature: 46.24°C, Pressure: 1097 hPa
+[2025-12-25 14:12:02] [Weather] Temperature: 46.41°C, Pressure: 1095 hPa
+[2025-12-25 14:12:03] [Weather] Temperature: 46.55°C, Pressure: 1089 hPa
+[2025-12-25 14:12:03] [Weather] Temperature: 46.70°C, Pressure: 1083 hPa
+[2025-12-25 14:12:04] [Weather] Temperature: 46.88°C, Pressure: 1084 hPa
+[2025-12-25 14:12:04] [Weather] Temperature: 47.09°C, Pressure: 1087 hPa
+[2025-12-25 14:12:05] [Weather] Temperature: 47.31°C, Pressure: 1089 hPa
+[2025-12-25 14:12:05] [Weather] Temperature: 47.53°C, Pressure: 1085 hPa
+[2025-12-25 14:12:06] [Weather] Temperature: 47.69°C, Pressure: 1080 hPa
+[2025-12-25 14:12:06] [Coordinates] X: 46, Y: 48, Z: 46
+[2025-12-25 14:12:06] [Weather] Temperature: 47.76°C, Pressure: 1078 hPa
+[2025-12-25 14:12:06] [Coordinates] X: 45, Y: 46, Z: 45
+[2025-12-25 14:12:07] [Weather] Temperature: 47.75°C, Pressure: 1079 hPa
+[2025-12-25 14:12:07] [Weather] Temperature: 47.68°C, Pressure: 1081 hPa
+[2025-12-25 14:12:13] [Weather] Temperature: 47.35°C, Pressure: 1089 hPa
+[2025-12-25 14:12:13] [Weather] Temperature: 47.56°C, Pressure: 1085 hPa
+[2025-12-25 14:12:17] [Coordinates] X: 44, Y: 48, Z: 45
+[2025-12-25 14:12:17] [Coordinates] X: 46, Y: 48, Z: 46
+[2025-12-25 14:12:18] [Coordinates] X: 45, Y: 48, Z: 46
+[2025-12-25 14:12:18] [Coordinates] X: 43, Y: 46, Z: 44
+[2025-12-25 14:12:24] [Weather] Temperature: 47.57°C, Pressure: 1084 hPa
+[2025-12-25 14:12:24] [Weather] Temperature: 47.71°C, Pressure: 1080 hPa
+[2025-12-25 14:12:25] [Weather] Temperature: 47.76°C, Pressure: 1078 hPa
+[2025-12-25 14:12:25] [Weather] Temperature: 47.74°C, Pressure: 1080 hPa
+[2025-12-25 14:12:26] [Weather] Temperature: 47.65°C, Pressure: 1081 hPa
+[2025-12-25 14:12:26] [Weather] Temperature: 47.50°C, Pressure: 1081 hPa
+[2025-12-25 14:12:27] [Weather] Temperature: 47.29°C, Pressure: 1082 hPa
+[2025-12-25 14:12:27] [Weather] Temperature: 47.03°C, Pressure: 1084 hPa
+[2025-12-25 14:12:28] [Weather] Temperature: 46.71°C, Pressure: 1084 hPa
+[2025-12-25 14:12:28] [Weather] Temperature: 46.34°C, Pressure: 1083 hPa
+[2025-12-25 14:12:29] [Coordinates] X: 42, Y: 42, Z: 42
+[2025-12-25 14:12:29] [Weather] Temperature: 45.92°C, Pressure: 1082 hPa
+[2025-12-25 14:12:29] [Weather] Temperature: 45.45°C, Pressure: 1083 hPa
+[2025-12-25 14:12:29] [Coordinates] X: 40, Y: 42, Z: 40
+[2025-12-25 14:12:30] [Weather] Temperature: 44.95°C, Pressure: 1086 hPa
+[2025-12-25 14:12:30] [Weather] Temperature: 44.41°C, Pressure: 1087 hPa
+[2025-12-25 14:12:31] [Weather] Temperature: 43.84°C, Pressure: 1083 hPa
+[2025-12-25 14:12:31] [Weather] Temperature: 43.26°C, Pressure: 1084 hPa
+[2025-12-25 14:12:32] [Weather] Temperature: 42.67°C, Pressure: 1092 hPa
+[2025-12-25 14:12:32] [Weather] Temperature: 42.08°C, Pressure: 1099 hPa
+[2025-12-25 14:12:33] [Weather] Temperature: 41.50°C, Pressure: 1095 hPa
+[2025-12-25 14:12:38] [Weather] Temperature: 47.61°C, Pressure: 1083 hPa
+[2025-12-25 14:12:38] [Weather] Temperature: 47.73°C, Pressure: 1079 hPa
+[2025-12-25 14:12:39] [Weather] Temperature: 47.76°C, Pressure: 1078 hPa
+[2025-12-25 14:12:39] [Weather] Temperature: 47.72°C, Pressure: 1080 hPa
+[2025-12-25 14:12:40] [Coordinates] X: 37, Y: 41, Z: 37
+[2025-12-25 14:12:40] [Weather] Temperature: 47.62°C, Pressure: 1081 hPa
+[2025-12-25 14:12:40] [Coordinates] X: 40, Y: 41, Z: 41
+[2025-12-25 14:12:40] [Weather] Temperature: 47.46°C, Pressure: 1081 hPa
+[2025-12-25 14:12:41] [Coordinates] X: 39, Y: 41, Z: 39
+[2025-12-25 14:12:41] [Weather] Temperature: 47.23°C, Pressure: 1082 hPa
+[2025-12-25 14:12:41] [Coordinates] X: 41, Y: 42, Z: 41
+[2025-12-25 14:12:41] [Weather] Temperature: 46.96°C, Pressure: 1084 hPa
+[2025-12-25 14:12:42] [Coordinates] X: 39, Y: 42, Z: 40
+[2025-12-25 14:12:42] [Coordinates] X: 36, Y: 41, Z: 37
+[2025-12-25 14:12:42] [Weather] Temperature: 46.62°C, Pressure: 1084 hPa
+[2025-12-25 14:12:42] [Weather] Temperature: 46.24°C, Pressure: 1083 hPa
+[2025-12-25 14:12:43] [Coordinates] X: 42, Y: 41, Z: 42
+[2025-12-25 14:12:43] [Weather] Temperature: 45.81°C, Pressure: 1082 hPa
+[2025-12-25 14:12:43] [Coordinates] X: 38, Y: 42, Z: 38
+[2025-12-25 14:12:43] [Weather] Temperature: 45.33°C, Pressure: 1084 hPa
+[2025-12-25 14:12:44] [Coordinates] X: 43, Y: 43, Z: 43
+[2025-12-25 14:12:44] [Weather] Temperature: 44.82°C, Pressure: 1087 hPa
+[2025-12-25 14:12:44] [Weather] Temperature: 44.27°C, Pressure: 1086 hPa
+[2025-12-25 14:12:44] [Coordinates] X: 39, Y: 43, Z: 40
+[2025-12-25 14:12:45] [Coordinates] X: 37, Y: 41, Z: 38
+[2025-12-25 14:12:45] [Weather] Temperature: 43.70°C, Pressure: 1082 hPa
+[2025-12-25 14:12:45] [Coordinates] X: 44, Y: 43, Z: 44
+[2025-12-25 14:12:45] [Weather] Temperature: 43.11°C, Pressure: 1086 hPa
+[2025-12-25 14:12:46] [Coordinates] X: 45, Y: 48, Z: 45
+[2025-12-25 14:12:46] [Weather] Temperature: 42.52°C, Pressure: 1095 hPa
+[2025-12-25 14:12:47] [Weather] Temperature: 41.93°C, Pressure: 1098 hPa
+[2025-12-25 14:12:47] [Coordinates] X: 47, Y: 49, Z: 47
+[2025-12-25 14:12:47] [Coordinates] X: 44, Y: 46, Z: 44
+[2025-12-25 14:12:52] [Weather] Temperature: 47.40°C, Pressure: 1081 hPa
+[2025-12-25 14:12:53] [Weather] Temperature: 47.16°C, Pressure: 1083 hPa
+[2025-12-25 14:12:53] [Weather] Temperature: 46.86°C, Pressure: 1084 hPa
+[2025-12-25 14:12:54] [Weather] Temperature: 46.52°C, Pressure: 1084 hPa
+[2025-12-25 14:12:54] [Weather] Temperature: 46.12°C, Pressure: 1083 hPa
+[2025-12-25 14:12:55] [Weather] Temperature: 45.67°C, Pressure: 1082 hPa
+[2025-12-25 14:12:55] [Weather] Temperature: 45.18°C, Pressure: 1085 hPa
+[2025-12-25 14:12:56] [Weather] Temperature: 44.66°C, Pressure: 1087 hPa
+[2025-12-25 14:12:56] [Weather] Temperature: 44.11°C, Pressure: 1085 hPa
+[2025-12-25 14:12:57] [Weather] Temperature: 43.53°C, Pressure: 1082 hPa
+[2025-12-25 14:12:57] [Weather] Temperature: 42.94°C, Pressure: 1088 hPa
+[2025-12-25 14:12:58] [Coordinates] X: 42, Y: 42, Z: 42
+[2025-12-25 14:12:58] [Weather] Temperature: 42.35°C, Pressure: 1097 hPa
+[2025-12-25 14:12:58] [Coordinates] X: 40, Y: 42, Z: 40
+[2025-12-25 14:12:58] [Weather] Temperature: 41.76°C, Pressure: 1098 hPa
+[2025-12-25 14:12:59] [Coordinates] X: 39, Y: 41, Z: 39
+[2025-12-25 14:12:59] [Weather] Temperature: 41.19°C, Pressure: 1091 hPa
+[2025-12-25 14:12:59] [Coordinates] X: 40, Y: 41, Z: 41
+[2025-12-25 14:12:59] [Weather] Temperature: 40.64°C, Pressure: 1090 hPa
+[2025-12-25 14:13:00] [Coordinates] X: 39, Y: 42, Z: 39
+[2025-12-25 14:13:00] [Coordinates] X: 43, Y: 44, Z: 43
+[2025-12-25 14:13:01] [Coordinates] X: 42, Y: 42, Z: 42
+[2025-12-25 14:13:01] [Coordinates] X: 38, Y: 41, Z: 39
+[2025-12-25 14:13:02] [Coordinates] X: 43, Y: 44, Z: 43
+[2025-12-25 14:13:02] [Coordinates] X: 46, Y: 49, Z: 47
+[2025-12-25 14:13:03] [Coordinates] X: 46, Y: 49, Z: 46
+[2025-12-25 14:13:03] [Coordinates] X: 42, Y: 46, Z: 42
+[2025-12-25 14:13:04] [Coordinates] X: 43, Y: 45, Z: 43
+[2025-12-25 14:13:04] [Coordinates] X: 45, Y: 47, Z: 46
+[2025-12-25 14:13:10] [Weather] Temperature: 43.60°C, Pressure: 1082 hPa
+[2025-12-25 14:13:10] [Weather] Temperature: 43.01°C, Pressure: 1087 hPa
+[2025-12-25 14:13:11] [Weather] Temperature: 42.42°C, Pressure: 1096 hPa
+[2025-12-25 14:13:11] [Weather] Temperature: 41.83°C, Pressure: 1098 hPa
+[2025-12-25 14:13:12] [Weather] Temperature: 41.26°C, Pressure: 1092 hPa
+[2025-12-25 14:13:12] [Weather] Temperature: 40.70°C, Pressure: 1090 hPa
+[2025-12-25 14:13:13] [Weather] Temperature: 40.18°C, Pressure: 1093 hPa
+[2025-12-25 14:13:13] [Weather] Temperature: 39.68°C, Pressure: 1094 hPa
+[2025-12-25 14:13:14] [Weather] Temperature: 39.21°C, Pressure: 1090 hPa
+[2025-12-25 14:13:14] [Weather] Temperature: 38.77°C, Pressure: 1086 hPa
+[2025-12-25 14:13:15] [Coordinates] X: 43, Y: 45, Z: 43
+[2025-12-25 14:13:15] [Weather] Temperature: 38.34°C, Pressure: 1080 hPa
+[2025-12-25 14:13:15] [Coordinates] X: 47, Y: 49, Z: 47
+[2025-12-25 14:13:15] [Weather] Temperature: 37.89°C, Pressure: 1072 hPa
+[2025-12-25 14:13:16] [Coordinates] X: 44, Y: 48, Z: 45
+[2025-12-25 14:13:16] [Weather] Temperature: 37.42°C, Pressure: 1077 hPa
+[2025-12-25 14:13:17] [Coordinates] X: 42, Y: 45, Z: 42
+[2025-12-25 14:13:16] [Weather] Temperature: 36.94°C, Pressure: 1087 hPa
+[2025-12-25 14:13:17] [Weather] Temperature: 36.46°C, Pressure: 1090 hPa
+[2025-12-25 14:13:17] [Coordinates] X: 44, Y: 46, Z: 44
+[2025-12-25 14:13:17] [Weather] Temperature: 35.97°C, Pressure: 1081 hPa
+[2025-12-25 14:13:18] [Coordinates] X: 45, Y: 47, Z: 45
+[2025-12-25 14:13:18] [Coordinates] X: 43, Y: 46, Z: 43
+[2025-12-25 14:13:18] [Weather] Temperature: 35.50°C, Pressure: 1073 hPa
+[2025-12-25 14:13:19] [Coordinates] X: 43, Y: 44, Z: 43
+[2025-12-25 14:13:19] [Weather] Temperature: 35.04°C, Pressure: 1072 hPa
+[2025-12-25 14:13:19] [Coordinates] X: 40, Y: 43, Z: 40
+[2025-12-25 14:13:20] [Coordinates] X: 35, Y: 38, Z: 36
+[2025-12-25 14:13:20] [Coordinates] X: 34, Y: 36, Z: 34
+[2025-12-25 14:13:21] [Coordinates] X: 38, Y: 40, Z: 38
+[2025-12-25 14:13:22] [Coordinates] X: 41, Y: 45, Z: 42
+[2025-12-25 14:13:25] [Weather] Temperature: 41.01°C, Pressure: 1090 hPa
+[2025-12-25 14:13:25] [Weather] Temperature: 40.47°C, Pressure: 1091 hPa
+[2025-12-25 14:13:26] [Weather] Temperature: 39.96°C, Pressure: 1094 hPa
+[2025-12-25 14:13:26] [Weather] Temperature: 39.47°C, Pressure: 1092 hPa
+[2025-12-25 14:13:27] [Weather] Temperature: 39.02°C, Pressure: 1088 hPa
+[2025-12-25 14:13:27] [Weather] Temperature: 38.58°C, Pressure: 1085 hPa
+[2025-12-25 14:13:28] [Weather] Temperature: 38.14°C, Pressure: 1076 hPa
+[2025-12-25 14:13:28] [Weather] Temperature: 37.69°C, Pressure: 1073 hPa
+[2025-12-25 14:13:29] [Weather] Temperature: 37.21°C, Pressure: 1081 hPa
+[2025-12-25 14:13:29] [Weather] Temperature: 36.73°C, Pressure: 1090 hPa
+[2025-12-25 14:13:30] [Weather] Temperature: 36.24°C, Pressure: 1087 hPa
+[2025-12-25 14:13:30] [Weather] Temperature: 35.77°C, Pressure: 1076 hPa
+[2025-12-25 14:13:31] [Weather] Temperature: 35.30°C, Pressure: 1072 hPa
+[2025-12-25 14:13:31] [Weather] Temperature: 34.84°C, Pressure: 1071 hPa
+[2025-12-25 14:13:32] [Weather] Temperature: 34.39°C, Pressure: 1066 hPa
+[2025-12-25 14:13:32] [Weather] Temperature: 33.96°C, Pressure: 1057 hPa
+[2025-12-25 14:13:32] [Coordinates] X: 45, Y: 47, Z: 45
+[2025-12-25 14:13:33] [Weather] Temperature: 33.53°C, Pressure: 1048 hPa
+[2025-12-25 14:13:33] [Coordinates] X: 42, Y: 46, Z: 42
+[2025-12-25 14:13:33] [Coordinates] X: 42, Y: 44, Z: 43
+[2025-12-25 14:13:34] [Coordinates] X: 39, Y: 42, Z: 40
+[2025-12-25 14:13:34] [Coordinates] X: 35, Y: 38, Z: 35
+[2025-12-25 14:13:35] [Coordinates] X: 35, Y: 36, Z: 35
+[2025-12-25 14:13:38] [Weather] Temperature: 39.01°C, Pressure: 1088 hPa
+[2025-12-25 14:13:39] [Weather] Temperature: 38.57°C, Pressure: 1085 hPa
+[2025-12-25 14:13:39] [Weather] Temperature: 38.13°C, Pressure: 1075 hPa
+[2025-12-25 14:13:40] [Weather] Temperature: 37.68°C, Pressure: 1073 hPa
+[2025-12-25 14:13:40] [Weather] Temperature: 37.20°C, Pressure: 1082 hPa
+[2025-12-25 14:13:41] [Weather] Temperature: 36.72°C, Pressure: 1090 hPa
+[2025-12-25 14:13:45] [Coordinates] X: 16, Y: 17, Z: 16
+[2025-12-25 14:13:46] [Coordinates] X: 15, Y: 16, Z: 15
+[2025-12-25 14:13:46] [Coordinates] X: 17, Y: 18, Z: 17
+[2025-12-25 14:13:47] [Coordinates] X: 18, Y: 18, Z: 18
+[2025-12-25 14:13:47] [Coordinates] X: 12, Y: 15, Z: 12
+[2025-12-25 14:13:48] [Coordinates] X: 18, Y: 15, Z: 18
+[2025-12-25 14:13:48] [Coordinates] X: 18, Y: 21, Z: 18
+[2025-12-25 14:13:49] [Coordinates] X: 24, Y: 25, Z: 24
+[2025-12-25 14:13:49] [Coordinates] X: 22, Y: 23, Z: 23
+[2025-12-25 14:13:50] [Coordinates] X: 17, Y: 19, Z: 18
+[2025-12-25 14:13:50] [Coordinates] X: 19, Y: 17, Z: 19
+[2025-12-25 14:13:51] [Coordinates] X: 12, Y: 13, Z: 12
+[2025-12-25 14:13:51] [Weather] Temperature: 35.45°C, Pressure: 1073 hPa
+[2025-12-25 14:13:52] [Weather] Temperature: 34.99°C, Pressure: 1072 hPa
+[2025-12-25 14:13:52] [Weather] Temperature: 34.54°C, Pressure: 1068 hPa
+[2025-12-25 14:13:53] [Weather] Temperature: 34.10°C, Pressure: 1060 hPa
+[2025-12-25 14:14:01] [Coordinates] X: 21, Y: 24, Z: 22
+[2025-12-25 14:14:02] [Coordinates] X: 18, Y: 18, Z: 18
+[2025-12-25 14:14:02] [Coordinates] X: 14, Y: 16, Z: 15
+[2025-12-25 14:14:03] [Coordinates] X: 18, Y: 17, Z: 18
+[2025-12-25 14:14:03] [Weather] Temperature: 32.04°C, Pressure: 1037 hPa
+[2025-12-25 14:14:04] [Weather] Temperature: 31.60°C, Pressure: 1036 hPa
+[2025-12-25 14:14:04] [Weather] Temperature: 31.15°C, Pressure: 1029 hPa
+[2025-12-25 14:14:05] [Weather] Temperature: 30.67°C, Pressure: 1031 hPa
+[2025-12-25 14:14:13] [Coordinates] X: 17, Y: 18, Z: 17
+[2025-12-25 14:14:14] [Coordinates] X: 21, Y: 24, Z: 21
+[2025-12-25 14:14:14] [Coordinates] X: 25, Y: 25, Z: 25
+[2025-12-25 14:14:15] [Coordinates] X: 17, Y: 21, Z: 17
+[2025-12-25 14:14:15] [Weather] Temperature: 27.78°C, Pressure: 1032 hPa
+[2025-12-25 14:14:16] [Weather] Temperature: 27.14°C, Pressure: 1023 hPa
+[2025-12-25 14:14:16] [Weather] Temperature: 26.49°C, Pressure: 1022 hPa
+[2025-12-25 14:14:17] [Weather] Temperature: 25.82°C, Pressure: 1026 hPa
+[2025-12-25 14:14:25] [Coordinates] X: 18, Y: 21, Z: 18
+[2025-12-25 14:14:26] [Coordinates] X: 24, Y: 25, Z: 25
+[2025-12-25 14:14:26] [Coordinates] X: 22, Y: 23, Z: 22
+[2025-12-25 14:14:27] [Coordinates] X: 18, Y: 19, Z: 18
+[2025-12-25 14:14:27] [Weather] Temperature: 28.32°C, Pressure: 1038 hPa
+[2025-12-25 14:14:28] [Weather] Temperature: 27.70°C, Pressure: 1031 hPa
+[2025-12-25 14:14:28] [Weather] Temperature: 27.06°C, Pressure: 1023 hPa
+[2025-12-25 14:14:29] [Weather] Temperature: 26.40°C, Pressure: 1023 hPa
+[2025-12-25 14:14:37] [Coordinates] X: 12, Y: 12, Z: 12
+[2025-12-25 14:14:38] [Coordinates] X: 13, Y: 14, Z: 13
+[2025-12-25 14:14:38] [Coordinates] X: 9, Y: 11, Z: 9
+[2025-12-25 14:14:39] [Coordinates] X: 8, Y: 6, Z: 8
+[2025-12-25 14:14:39] [Weather] Temperature: 23.56°C, Pressure: 1009 hPa
+[2025-12-25 14:14:40] [Weather] Temperature: 22.97°C, Pressure: 1006 hPa
+[2025-12-25 14:14:49] [Coordinates] X: 1, Y: 3, Z: 1
+[2025-12-25 14:14:50] [Coordinates] X: 4, Y: 2, Z: 3
+[2025-12-25 14:14:50] [Coordinates] X: 2, Y: 2, Z: 2
+[2025-12-25 14:14:51] [Coordinates] X: -2, Y: 0, Z: -2
+[2025-12-25 14:14:51] [Weather] Temperature: 24.30°C, Pressure: 1017 hPa
+[2025-12-25 14:14:51] [Weather] Temperature: 23.67°C, Pressure: 1009 hPa
+[2025-12-25 14:14:52] [Weather] Temperature: 23.07°C, Pressure: 1006 hPa
+[2025-12-25 14:14:52] [Weather] Temperature: 22.51°C, Pressure: 1005 hPa
+[2025-12-25 14:14:53] [Weather] Temperature: 21.99°C, Pressure: 1005 hPa
+[2025-12-25 14:14:53] [Weather] Temperature: 21.52°C, Pressure: 1003 hPa
+[2025-12-25 14:14:54] [Weather] Temperature: 21.09°C, Pressure: 999 hPa
+[2025-12-25 14:14:54] [Weather] Temperature: 20.70°C, Pressure: 996 hPa
+[2025-12-25 14:14:55] [Weather] Temperature: 20.36°C, Pressure: 1000 hPa
+[2025-12-25 14:14:55] [Weather] Temperature: 20.06°C, Pressure: 1006 hPa
+[2025-12-25 14:14:56] [Weather] Temperature: 19.80°C, Pressure: 1003 hPa
+[2025-12-25 14:15:01] [Coordinates] X: 3, Y: 4, Z: 3
+[2025-12-25 14:15:02] [Coordinates] X: 1, Y: 1, Z: 1
+[2025-12-25 14:15:02] [Coordinates] X: -3, Y: 0, Z: -3
+[2025-12-25 14:15:03] [Coordinates] X: 0, Y: 0, Z: 0
+[2025-12-25 14:15:04] [Coordinates] X: -1, Y: -3, Z: -1
+[2025-12-25 14:15:04] [Coordinates] X: -3, Y: -3, Z: -3
+[2025-12-25 14:15:05] [Coordinates] X: 2, Y: 1, Z: 2
+[2025-12-25 14:15:05] [Coordinates] X: 5, Y: 5, Z: 5
+[2025-12-25 14:15:06] [Coordinates] X: 5, Y: 5, Z: 5
+[2025-12-25 14:15:06] [Coordinates] X: 0, Y: 1, Z: 0
+[2025-12-25 14:15:06] [Weather] Temperature: 18.92°C, Pressure: 1001 hPa
+[2025-12-25 14:15:07] [Weather] Temperature: 18.80°C, Pressure: 1000 hPa
+[2025-12-25 14:15:08] [Weather] Temperature: 18.69°C, Pressure: 998 hPa
+[2025-12-25 14:15:08] [Weather] Temperature: 18.59°C, Pressure: 994 hPa
+[2025-12-25 14:15:09] [Weather] Temperature: 18.48°C, Pressure: 996 hPa
+[2025-12-25 14:15:09] [Weather] Temperature: 18.37°C, Pressure: 1005 hPa
+[2025-12-25 14:15:16] [Coordinates] X: -3, Y: -3, Z: -3
+[2025-12-25 14:15:17] [Coordinates] X: 1, Y: 1, Z: 1
+[2025-12-25 14:15:18] [Coordinates] X: 5, Y: 5, Z: 5
+[2025-12-25 14:15:18] [Coordinates] X: 5, Y: 5, Z: 5
+[2025-12-25 14:15:19] [Coordinates] X: 0, Y: 2, Z: 0
+[2025-12-25 14:15:19] [Coordinates] X: 0, Y: 0, Z: 0
+[2025-12-25 14:15:20] [Coordinates] X: -4, Y: -5, Z: -4
+[2025-12-25 14:15:20] [Weather] Temperature: 24.58°C, Pressure: 1042 hPa
+[2025-12-25 14:15:20] [Coordinates] X: -9, Y: -8, Z: -9
+[2025-12-25 14:15:20] [Weather] Temperature: 27.23°C, Pressure: 1049 hPa
+[2025-12-25 14:15:21] [Coordinates] X: -3, Y: -5, Z: -3
+[2025-12-25 14:15:21] [Coordinates] X: 0, Y: 1, Z: 0
+[2025-12-25 14:15:30] [Weather] Temperature: 18.58°C, Pressure: 994 hPa
+[2025-12-25 14:15:31] [Weather] Temperature: 18.48°C, Pressure: 996 hPa
+[2025-12-25 14:15:32] [Coordinates] X: 0, Y: 0, Z: 0
+[2025-12-25 14:15:32] [Coordinates] X: -5, Y: -3, Z: -5
+[2025-12-25 14:15:42] [Weather] Temperature: 21.25°C, Pressure: 1029 hPa
+[2025-12-25 14:15:42] [Weather] Temperature: 23.97°C, Pressure: 1041 hPa
+[2025-12-25 14:15:42] [Coordinates] X: -4, Y: -2, Z: -4
+[2025-12-25 14:15:43] [Coordinates] X: 5, Y: 2, Z: 5
+[2025-12-25 14:15:44] [Coordinates] X: 5, Y: 6, Z: 5
+[2025-12-25 14:15:44] [Coordinates] X: 4, Y: 4, Z: 4
+[2025-12-25 14:15:45] [Coordinates] X: -1, Y: 1, Z: -1
+[2025-12-25 14:15:45] [Coordinates] X: -1, Y: -1, Z: -2
+[2025-12-25 14:15:46] [Coordinates] X: -4, Y: -6, Z: -5
+[2025-12-25 14:15:46] [Coordinates] X: -6, Y: -7, Z: -6
+[2025-12-25 14:15:53] [Weather] Temperature: 40.31°C, Pressure: 1072 hPa
+[2025-12-25 14:15:53] [Weather] Temperature: 41.73°C, Pressure: 1077 hPa
+[2025-12-25 14:15:57] [Coordinates] X: 33, Y: 34, Z: 33
+[2025-12-25 14:15:57] [Coordinates] X: 34, Y: 36, Z: 35
+[2025-12-25 14:16:04] [Weather] Temperature: 37.10°C, Pressure: 1068 hPa
+[2025-12-25 14:16:05] [Weather] Temperature: 38.93°C, Pressure: 1069 hPa
+[2025-12-25 14:16:05] [Weather] Temperature: 40.55°C, Pressure: 1073 hPa
+[2025-12-25 14:16:06] [Weather] Temperature: 41.93°C, Pressure: 1077 hPa
+[2025-12-25 14:16:06] [Weather] Temperature: 43.09°C, Pressure: 1081 hPa
+[2025-12-25 14:16:07] [Weather] Temperature: 44.04°C, Pressure: 1086 hPa
+[2025-12-25 14:16:07] [Weather] Temperature: 44.78°C, Pressure: 1091 hPa
+[2025-12-25 14:16:08] [Coordinates] X: 43, Y: 47, Z: 44
+[2025-12-25 14:16:08] [Coordinates] X: 44, Y: 47, Z: 45
+[2025-12-25 14:16:18] [Weather] Temperature: 45.13°C, Pressure: 1093 hPa
+[2025-12-25 14:16:18] [Weather] Temperature: 45.60°C, Pressure: 1094 hPa
+[2025-12-25 14:16:19] [Coordinates] X: 37, Y: 42, Z: 38
+[2025-12-25 14:16:19] [Coordinates] X: 45, Y: 44, Z: 46
+[2025-12-25 14:16:29] [Weather] Temperature: 46.80°C, Pressure: 1083 hPa
+[2025-12-25 14:16:29] [Weather] Temperature: 46.99°C, Pressure: 1086 hPa
+[2025-12-25 14:16:30] [Coordinates] X: 45, Y: 48, Z: 45
+[2025-12-25 14:16:30] [Coordinates] X: 43, Y: 45, Z: 44
+[2025-12-25 14:16:40] [Weather] Temperature: 46.70°C, Pressure: 1083 hPa
+[2025-12-25 14:16:40] [Weather] Temperature: 46.87°C, Pressure: 1084 hPa
+[2025-12-25 14:16:41] [Coordinates] X: 45, Y: 44, Z: 45
+[2025-12-25 14:16:41] [Coordinates] X: 40, Y: 44, Z: 40
+[2025-12-25 14:16:42] [Coordinates] X: 41, Y: 42, Z: 41
+[2025-12-25 14:16:42] [Coordinates] X: 37, Y: 40, Z: 38
+[2025-12-25 14:16:51] [Weather] Temperature: 47.71°C, Pressure: 1080 hPa
+[2025-12-25 14:16:51] [Weather] Temperature: 47.76°C, Pressure: 1078 hPa
+[2025-12-25 14:16:53] [Coordinates] X: 38, Y: 41, Z: 39
+[2025-12-25 14:16:53] [Coordinates] X: 38, Y: 41, Z: 38
+[2025-12-25 14:22:53] [Coordinates] X: 1, Y: 3, Z: 1
+[2025-12-25 14:22:53] [Weather] Temperature: 22.47°C, Pressure: 1005 hPa
+[2025-12-25 14:22:54] [Coordinates] X: 3, Y: 2, Z: 3
+[2025-12-25 14:22:54] [Weather] Temperature: 21.95°C, Pressure: 1004 hPa
+[2025-12-25 14:22:54] [Weather] Temperature: 21.48°C, Pressure: 1003 hPa
+[2025-12-25 14:22:54] [Coordinates] X: 3, Y: 1, Z: 3
+[2025-12-25 14:22:55] [Weather] Temperature: 21.05°C, Pressure: 999 hPa
+[2025-12-25 14:22:55] [Coordinates] X: -1, Y: 0, Z: -1
+[2025-12-25 14:22:56] [Weather] Temperature: 20.67°C, Pressure: 997 hPa
+[2025-12-25 14:22:56] [Coordinates] X: -1, Y: -2, Z: -1
+[2025-12-25 14:22:57] [Coordinates] X: -1, Y: 0, Z: -1
+[2025-12-25 14:22:57] [Weather] Temperature: 20.33°C, Pressure: 1001 hPa
+[2025-12-25 14:22:58] [Weather] Temperature: 20.04°C, Pressure: 1006 hPa
+[2025-12-25 14:22:58] [Coordinates] X: 3, Y: 3, Z: 3
+[2025-12-25 14:22:58] [Weather] Temperature: 19.78°C, Pressure: 1003 hPa
+[2025-12-25 14:22:58] [Coordinates] X: 2, Y: 2, Z: 2
+[2025-12-25 14:22:59] [Coordinates] X: -1, Y: -1, Z: -1
+[2025-12-25 14:22:59] [Weather] Temperature: 19.55°C, Pressure: 997 hPa
+[2025-12-25 14:23:00] [Coordinates] X: 0, Y: 0, Z: 0
+[2025-12-25 14:23:00] [Weather] Temperature: 19.36°C, Pressure: 1000 hPa
+[2025-12-25 14:23:00] [Coordinates] X: 1, Y: 3, Z: 1
+[2025-12-25 14:23:00] [Weather] Temperature: 19.19°C, Pressure: 1007 hPa
+[2025-12-25 14:23:01] [Coordinates] X: 5, Y: 4, Z: 5
+[2025-12-25 14:23:01] [Weather] Temperature: 19.04°C, Pressure: 1007 hPa
+[2025-12-25 14:23:01] [Weather] Temperature: 18.91°C, Pressure: 1001 hPa
+[2025-12-25 14:23:01] [Coordinates] X: 0, Y: 1, Z: 0
+[2025-12-25 14:23:02] [Weather] Temperature: 18.79°C, Pressure: 1000 hPa
+[2025-12-25 14:23:02] [Coordinates] X: 1, Y: 0, Z: 0
+[2025-12-25 14:29:57] [Coordinates] X: 45, Y: 47, Z: 45
+[2025-12-25 14:29:57] [Weather] Temperature: 46.38°C, Pressure: 1095 hPa
+[2025-12-25 14:29:58] [Coordinates] X: 43, Y: 45, Z: 43
+[2025-12-25 14:29:58] [Weather] Temperature: 46.52°C, Pressure: 1090 hPa
+[2025-12-25 14:29:58] [Coordinates] X: 37, Y: 42, Z: 38
+[2025-12-25 14:29:58] [Weather] Temperature: 46.67°C, Pressure: 1084 hPa
+[2025-12-25 14:30:09] [Coordinates] X: 41, Y: 43, Z: 41
+[2025-12-25 14:30:09] [Weather] Temperature: 46.88°C, Pressure: 1084 hPa
+[2025-12-25 14:30:09] [Coordinates] X: 42, Y: 45, Z: 42
+[2025-12-25 14:30:09] [Weather] Temperature: 47.09°C, Pressure: 1087 hPa
+[2025-12-25 14:30:10] [Coordinates] X: 39, Y: 43, Z: 40
+[2025-12-25 14:30:10] [Weather] Temperature: 47.32°C, Pressure: 1089 hPa
+[2025-12-25 14:30:10] [Coordinates] X: 39, Y: 40, Z: 40
+[2025-12-25 14:30:10] [Weather] Temperature: 47.54°C, Pressure: 1085 hPa
+[2025-12-25 14:30:11] [Coordinates] X: 36, Y: 39, Z: 37
+[2025-12-25 14:30:11] [Weather] Temperature: 47.69°C, Pressure: 1080 hPa
+[2025-12-25 14:30:11] [Coordinates] X: 36, Y: 39, Z: 37
+[2025-12-25 14:30:11] [Weather] Temperature: 47.76°C, Pressure: 1078 hPa
+[2025-12-25 14:30:12] [Coordinates] X: 38, Y: 40, Z: 39
+[2025-12-25 14:30:12] [Weather] Temperature: 47.75°C, Pressure: 1079 hPa
+[2025-12-25 14:30:12] [Coordinates] X: 39, Y: 41, Z: 39
+[2025-12-25 14:30:12] [Weather] Temperature: 47.67°C, Pressure: 1081 hPa
+[2025-12-25 14:30:13] [Weather] Temperature: 47.54°C, Pressure: 1081 hPa
+[2025-12-25 14:30:13] [Coordinates] X: 39, Y: 41, Z: 40
+[2025-12-25 14:30:13] [Weather] Temperature: 47.34°C, Pressure: 1081 hPa
+[2025-12-25 14:30:13] [Coordinates] X: 38, Y: 41, Z: 39
+[2025-12-25 14:32:32] [Coordinates] X: 0, Y: 2, Z: 0
+[2025-12-25 14:32:33] [Coordinates] X: 0, Y: 1, Z: 0
+[2025-12-25 14:32:32] [Weather] Temperature: 21.74°C, Pressure: 1004 hPa
+[2025-12-25 14:32:33] [Weather] Temperature: 21.29°C, Pressure: 1001 hPa
+[2025-12-25 14:32:43] [Coordinates] X: 3, Y: 2, Z: 4
+[2025-12-25 14:32:43] [Weather] Temperature: 22.13°C, Pressure: 1005 hPa
+[2025-12-25 14:32:43] [Coordinates] X: 1, Y: 2, Z: 1
+[2025-12-25 14:32:43] [Weather] Temperature: 21.64°C, Pressure: 1003 hPa
+[2025-12-25 14:32:44] [Weather] Temperature: 21.20°C, Pressure: 1000 hPa
+[2025-12-25 14:32:44] [Weather] Temperature: 20.80°C, Pressure: 996 hPa
+[2025-12-25 14:32:45] [Weather] Temperature: 20.45°C, Pressure: 999 hPa
+[2025-12-25 14:32:44] [Coordinates] X: -2, Y: 0, Z: -2
+[2025-12-25 14:32:44] [Coordinates] X: 1, Y: -2, Z: 0
+[2025-12-25 14:32:45] [Coordinates] X: -1, Y: 0, Z: 0
+[2025-12-25 14:32:45] [Weather] Temperature: 20.14°C, Pressure: 1005 hPa
+[2025-12-25 14:32:45] [Coordinates] X: 3, Y: 3, Z: 3
+[2025-12-25 14:32:46] [Weather] Temperature: 19.86°C, Pressure: 1005 hPa
+[2025-12-25 14:32:46] [Coordinates] X: 2, Y: 2, Z: 2
+[2025-12-25 14:32:56] [Coordinates] X: 43, Y: 45, Z: 43
+[2025-12-25 14:32:56] [Coordinates] X: 44, Y: 47, Z: 44
+[2025-12-25 14:32:57] [Coordinates] X: 45, Y: 47, Z: 45
+[2025-12-25 14:32:57] [Weather] Temperature: 20.06°C, Pressure: 1006 hPa
+[2025-12-25 14:32:58] [Weather] Temperature: 19.80°C, Pressure: 1003 hPa
+[2025-12-25 14:32:57] [Coordinates] X: 43, Y: 48, Z: 43
+[2025-12-25 14:32:59] [Coordinates] X: 48, Y: 48, Z: 48
+[2025-12-25 14:32:59] [Coordinates] X: 45, Y: 47, Z: 45
+[2025-12-25 14:33:00] [Coordinates] X: 42, Y: 45, Z: 43
+[2025-12-25 14:33:00] [Coordinates] X: 37, Y: 42, Z: 38
+[2025-12-25 14:33:01] [Coordinates] X: 38, Y: 42, Z: 38
+[2025-12-25 14:33:01] [Coordinates] X: 43, Y: 43, Z: 43
+[2025-12-25 14:33:02] [Coordinates] X: 42, Y: 45, Z: 43
+[2025-12-25 14:33:03] [Coordinates] X: 40, Y: 43, Z: 40
+[2025-12-25 14:33:03] [Coordinates] X: 40, Y: 40, Z: 40
+[2025-12-25 14:33:08] [Weather] Temperature: 21.51°C, Pressure: 1003 hPa
+[2025-12-25 14:33:08] [Weather] Temperature: 21.08°C, Pressure: 999 hPa
+[2025-12-25 14:33:09] [Weather] Temperature: 20.70°C, Pressure: 996 hPa
+[2025-12-25 14:33:09] [Weather] Temperature: 20.36°C, Pressure: 1001 hPa
+[2025-12-25 14:33:10] [Weather] Temperature: 20.06°C, Pressure: 1006 hPa
+[2025-12-25 14:33:11] [Weather] Temperature: 19.80°C, Pressure: 1003 hPa
+[2025-12-25 14:33:15] [Coordinates] X: 27, Y: 29, Z: 27
+[2025-12-25 14:33:15] [Coordinates] X: 31, Y: 33, Z: 31
+[2025-12-25 14:33:20] [Weather] Temperature: 47.74°C, Pressure: 1080 hPa
+[2025-12-25 14:33:21] [Weather] Temperature: 47.65°C, Pressure: 1081 hPa
+[2025-12-25 14:33:21] [Weather] Temperature: 47.50°C, Pressure: 1081 hPa
+[2025-12-25 14:33:22] [Weather] Temperature: 47.29°C, Pressure: 1082 hPa
+[2025-12-25 14:33:26] [Coordinates] X: -3, Y: -2, Z: -3
+[2025-12-25 14:33:26] [Coordinates] X: -7, Y: -7, Z: -7
+[2025-12-25 14:33:33] [Weather] Temperature: 29.29°C, Pressure: 1057 hPa
+[2025-12-25 14:33:33] [Weather] Temperature: 31.75°C, Pressure: 1065 hPa
+[2025-12-25 14:33:37] [Coordinates] X: 0, Y: -1, Z: 0
+[2025-12-25 14:33:37] [Coordinates] X: -3, Y: -5, Z: -3
+[2025-12-25 14:33:43] [Weather] Temperature: 47.25°C, Pressure: 1089 hPa
+[2025-12-25 14:33:43] [Weather] Temperature: 47.47°C, Pressure: 1087 hPa
+[2025-12-25 14:33:44] [Weather] Temperature: 47.65°C, Pressure: 1081 hPa
+[2025-12-25 14:33:44] [Weather] Temperature: 47.74°C, Pressure: 1079 hPa
+[2025-12-25 14:33:45] [Weather] Temperature: 47.76°C, Pressure: 1079 hPa
+[2025-12-25 14:33:45] [Weather] Temperature: 47.70°C, Pressure: 1080 hPa
+[2025-12-25 14:33:46] [Weather] Temperature: 47.58°C, Pressure: 1081 hPa
+[2025-12-25 14:33:47] [Weather] Temperature: 47.41°C, Pressure: 1081 hPa
+[2025-12-25 14:33:47] [Coordinates] X: 31, Y: 33, Z: 31
+[2025-12-25 14:33:47] [Coordinates] X: 29, Y: 29, Z: 29
+[2025-12-25 14:33:48] [Weather] Temperature: 47.17°C, Pressure: 1083 hPa
+[2025-12-25 14:33:48] [Coordinates] X: 23, Y: 25, Z: 23
+[2025-12-25 14:33:48] [Coordinates] X: 19, Y: 19, Z: 19
+[2025-12-25 14:33:49] [Coordinates] X: 14, Y: 16, Z: 15
+[2025-12-25 14:33:49] [Coordinates] X: 16, Y: 17, Z: 17
+[2025-12-25 14:33:49] [Weather] Temperature: 46.88°C, Pressure: 1084 hPa
+[2025-12-25 14:33:50] [Weather] Temperature: 46.53°C, Pressure: 1084 hPa
+[2025-12-25 14:33:50] [Weather] Temperature: 46.14°C, Pressure: 1083 hPa
+[2025-12-25 14:34:00] [Coordinates] X: 44, Y: 47, Z: 45
+[2025-12-25 14:34:01] [Coordinates] X: 44, Y: 48, Z: 44
+[2025-12-25 14:34:01] [Coordinates] X: 47, Y: 48, Z: 47
+[2025-12-25 14:34:01] [Weather] Temperature: 47.76°C, Pressure: 1078 hPa
+[2025-12-25 14:34:01] [Weather] Temperature: 47.74°C, Pressure: 1079 hPa
+[2025-12-25 14:34:02] [Coordinates] X: 45, Y: 48, Z: 45
+[2025-12-25 14:34:02] [Coordinates] X: 43, Y: 45, Z: 44
+[2025-12-25 14:34:12] [Weather] Temperature: 44.93°C, Pressure: 1092 hPa
+[2025-12-25 14:34:12] [Weather] Temperature: 45.45°C, Pressure: 1094 hPa
+[2025-12-25 14:34:13] [Coordinates] X: 44, Y: 47, Z: 44
+[2025-12-25 14:34:13] [Coordinates] X: 46, Y: 47, Z: 46
+[2025-12-25 14:34:23] [Weather] Temperature: 47.51°C, Pressure: 1081 hPa
+[2025-12-25 14:34:23] [Weather] Temperature: 47.30°C, Pressure: 1082 hPa
+[2025-12-25 14:34:24] [Coordinates] X: 39, Y: 40, Z: 40
+[2025-12-25 14:34:24] [Coordinates] X: 36, Y: 39, Z: 37
+[2025-12-25 14:34:34] [Weather] Temperature: 39.18°C, Pressure: 1069 hPa
+[2025-12-25 14:34:34] [Coordinates] X: -1, Y: 0, Z: -2
+[2025-12-25 14:34:34] [Coordinates] X: 2, Y: 0, Z: 2
+[2025-12-25 14:34:34] [Weather] Temperature: 40.77°C, Pressure: 1073 hPa
+[2025-12-25 14:34:35] [Weather] Temperature: 42.12°C, Pressure: 1078 hPa
+[2025-12-25 14:34:35] [Weather] Temperature: 43.25°C, Pressure: 1082 hPa
+[2025-12-25 14:34:36] [Weather] Temperature: 44.16°C, Pressure: 1087 hPa
+[2025-12-25 14:34:36] [Weather] Temperature: 44.87°C, Pressure: 1092 hPa
+[2025-12-25 14:34:37] [Weather] Temperature: 45.41°C, Pressure: 1094 hPa
+[2025-12-25 14:34:37] [Weather] Temperature: 45.80°C, Pressure: 1095 hPa
+[2025-12-25 14:34:38] [Weather] Temperature: 46.08°C, Pressure: 1096 hPa
+[2025-12-25 14:34:45] [Coordinates] X: 37, Y: 41, Z: 38
+[2025-12-25 14:34:45] [Coordinates] X: 37, Y: 42, Z: 38
+[2025-12-25 14:34:48] [Weather] Temperature: 47.56°C, Pressure: 1081 hPa
+[2025-12-25 14:34:48] [Weather] Temperature: 47.36°C, Pressure: 1081 hPa
+[2025-12-25 14:34:49] [Weather] Temperature: 47.12°C, Pressure: 1083 hPa
+[2025-12-25 14:34:49] [Weather] Temperature: 46.81°C, Pressure: 1084 hPa
+[2025-12-25 14:34:55] [Coordinates] X: 37, Y: 41, Z: 38
+[2025-12-25 14:34:55] [Coordinates] X: 38, Y: 42, Z: 38
+[2025-12-25 14:34:56] [Coordinates] X: 42, Y: 42, Z: 42
+[2025-12-25 14:34:56] [Coordinates] X: 38, Y: 42, Z: 38
+[2025-12-25 14:35:00] [Weather] Temperature: 47.01°C, Pressure: 1084 hPa
+[2025-12-25 14:35:00] [Weather] Temperature: 46.69°C, Pressure: 1084 hPa
+[2025-12-25 14:35:06] [Coordinates] X: 38, Y: 42, Z: 39
+[2025-12-25 14:35:07] [Coordinates] X: 39, Y: 43, Z: 39
+[2025-12-25 14:35:07] [Coordinates] X: 41, Y: 43, Z: 41
+[2025-12-25 14:35:11] [Weather] Temperature: 45.30°C, Pressure: 1084 hPa
+[2025-12-25 14:35:11] [Weather] Temperature: 44.78°C, Pressure: 1087 hPa
+[2025-12-25 14:35:18] [Coordinates] X: 44, Y: 47, Z: 44
+[2025-12-25 14:35:19] [Coordinates] X: 46, Y: 49, Z: 47
+[2025-12-25 14:35:21] [Weather] Temperature: 40.53°C, Pressure: 1091 hPa
+[2025-12-25 14:35:22] [Weather] Temperature: 40.01°C, Pressure: 1094 hPa
+[2025-12-25 14:35:22] [Weather] Temperature: 39.53°C, Pressure: 1093 hPa
+[2025-12-25 14:35:29] [Coordinates] X: 14, Y: 16, Z: 15
+[2025-12-25 14:35:30] [Coordinates] X: 16, Y: 17, Z: 16
+[2025-12-25 14:35:33] [Weather] Temperature: 36.76°C, Pressure: 1089 hPa
+[2025-12-25 14:35:34] [Weather] Temperature: 36.27°C, Pressure: 1088 hPa
+[2025-12-25 14:35:34] [Weather] Temperature: 35.79°C, Pressure: 1077 hPa
+[2025-12-25 14:35:35] [Weather] Temperature: 35.32°C, Pressure: 1072 hPa
+[2025-12-25 14:35:35] [Weather] Temperature: 34.87°C, Pressure: 1071 hPa
+[2025-12-25 14:35:36] [Weather] Temperature: 34.42°C, Pressure: 1066 hPa
+[2025-12-25 14:35:40] [Coordinates] X: 35, Y: 37, Z: 35
+[2025-12-25 14:35:40] [Coordinates] X: 34, Y: 36, Z: 35
+[2025-12-25 14:35:41] [Coordinates] X: 34, Y: 35, Z: 35
+[2025-12-25 14:35:46] [Weather] Temperature: 36.94°C, Pressure: 1087 hPa
+[2025-12-25 14:35:47] [Weather] Temperature: 36.46°C, Pressure: 1090 hPa
+[2025-12-25 14:35:51] [Coordinates] X: 17, Y: 18, Z: 17
+[2025-12-25 14:35:52] [Coordinates] X: 15, Y: 16, Z: 15
+[2025-12-25 14:35:56] [Weather] Temperature: 26.80°C, Pressure: 1022 hPa
+[2025-12-25 14:35:56] [Weather] Temperature: 26.14°C, Pressure: 1024 hPa
+[2025-12-25 14:35:57] [Weather] Temperature: 25.47°C, Pressure: 1027 hPa
+[2025-12-25 14:36:02] [Coordinates] X: 27, Y: 28, Z: 28
+[2025-12-25 14:36:02] [Coordinates] X: 22, Y: 24, Z: 22
+[2025-12-25 14:36:03] [Coordinates] X: 19, Y: 19, Z: 19
+[2025-12-25 14:36:03] [Coordinates] X: 15, Y: 16, Z: 15
+[2025-12-25 14:36:04] [Coordinates] X: 18, Y: 17, Z: 18
+[2025-12-25 14:36:04] [Coordinates] X: 18, Y: 19, Z: 18
+[2025-12-25 14:36:05] [Coordinates] X: 14, Y: 16, Z: 15
+[2025-12-25 14:36:05] [Coordinates] X: 14, Y: 14, Z: 14
+[2025-12-25 14:36:06] [Coordinates] X: 17, Y: 18, Z: 17
+[2025-12-25 14:36:06] [Weather] Temperature: 24.95°C, Pressure: 1026 hPa
+[2025-12-25 14:36:06] [Coordinates] X: 21, Y: 24, Z: 21
+[2025-12-25 14:36:06] [Weather] Temperature: 24.30°C, Pressure: 1017 hPa
+[2025-12-25 14:36:07] [Coordinates] X: 25, Y: 25, Z: 25
+[2025-12-25 14:36:07] [Weather] Temperature: 23.66°C, Pressure: 1009 hPa
+[2025-12-25 14:36:07] [Weather] Temperature: 23.07°C, Pressure: 1006 hPa
+[2025-12-25 14:36:08] [Weather] Temperature: 22.50°C, Pressure: 1005 hPa
+[2025-12-25 14:36:08] [Weather] Temperature: 21.99°C, Pressure: 1005 hPa
+[2025-12-25 14:36:09] [Weather] Temperature: 21.51°C, Pressure: 1003 hPa
+[2025-12-25 14:36:09] [Weather] Temperature: 21.08°C, Pressure: 999 hPa
+[2025-12-25 14:36:10] [Weather] Temperature: 20.70°C, Pressure: 996 hPa
+[2025-12-25 14:36:10] [Weather] Temperature: 20.36°C, Pressure: 1001 hPa
+[2025-12-25 14:36:11] [Weather] Temperature: 20.06°C, Pressure: 1006 hPa
+[2025-12-25 14:36:11] [Weather] Temperature: 19.79°C, Pressure: 1003 hPa
+[2025-12-25 14:36:12] [Weather] Temperature: 19.57°C, Pressure: 997 hPa
+[2025-12-25 14:36:12] [Weather] Temperature: 19.37°C, Pressure: 1000 hPa
+[2025-12-25 14:36:13] [Weather] Temperature: 19.20°C, Pressure: 1007 hPa
+[2025-12-25 14:36:16] [Coordinates] X: 17, Y: 18, Z: 17
+[2025-12-25 14:36:17] [Coordinates] X: 14, Y: 16, Z: 15
+[2025-12-25 14:36:23] [Weather] Temperature: 30.17°C, Pressure: 1043 hPa
+[2025-12-25 14:36:23] [Weather] Temperature: 29.65°C, Pressure: 1050 hPa
+[2025-12-25 14:36:24] [Weather] Temperature: 29.09°C, Pressure: 1045 hPa
+[2025-12-25 14:36:26] [Coordinates] X: -1, Y: -1, Z: -1
+[2025-12-25 14:36:27] [Coordinates] X: 0, Y: 0, Z: 0
+[2025-12-25 14:36:27] [Coordinates] X: 2, Y: 3, Z: 2
+[2025-12-25 14:36:28] [Coordinates] X: 4, Y: 3, Z: 4
+[2025-12-25 14:36:34] [Weather] Temperature: 28.52°C, Pressure: 1038 hPa
+[2025-12-25 14:36:35] [Weather] Temperature: 27.91°C, Pressure: 1034 hPa
+[2025-12-25 14:36:39] [Coordinates] X: 7, Y: 6, Z: 7
+[2025-12-25 14:36:40] [Coordinates] X: 3, Y: 4, Z: 3
+[2025-12-25 14:36:45] [Weather] Temperature: 22.99°C, Pressure: 1006 hPa
+[2025-12-25 14:36:45] [Weather] Temperature: 22.43°C, Pressure: 1005 hPa
+[2025-12-25 14:36:46] [Weather] Temperature: 21.92°C, Pressure: 1004 hPa
+[2025-12-25 14:36:46] [Weather] Temperature: 21.45°C, Pressure: 1003 hPa
+[2025-12-25 14:36:50] [Coordinates] X: 13, Y: 12, Z: 12
+[2025-12-25 14:36:51] [Coordinates] X: 13, Y: 14, Z: 13
+[2025-12-25 14:36:51] [Coordinates] X: 9, Y: 11, Z: 9
+[2025-12-25 14:36:52] [Coordinates] X: 8, Y: 6, Z: 7
+[2025-12-25 14:36:52] [Coordinates] X: 4, Y: 4, Z: 3
+[2025-12-25 14:36:53] [Coordinates] X: 1, Y: 3, Z: 2
+[2025-12-25 14:36:53] [Coordinates] X: 1, Y: 2, Z: 1
+[2025-12-25 14:36:54] [Coordinates] X: 0, Y: 2, Z: 0
+[2025-12-25 14:36:54] [Coordinates] X: 1, Y: 1, Z: 1
+[2025-12-25 14:36:55] [Coordinates] X: 1, Y: -1, Z: 1
+[2025-12-25 14:36:55] [Coordinates] X: -2, Y: -1, Z: -2
+[2025-12-25 14:36:56] [Weather] Temperature: 23.15°C, Pressure: 1006 hPa
+[2025-12-25 14:36:56] [Coordinates] X: 1, Y: 2, Z: 1
+[2025-12-25 14:36:56] [Coordinates] X: 3, Y: 3, Z: 4
+[2025-12-25 14:36:56] [Weather] Temperature: 22.58°C, Pressure: 1005 hPa
+[2025-12-25 14:36:57] [Coordinates] X: -2, Y: 0, Z: -3
+[2025-12-25 14:36:57] [Weather] Temperature: 22.06°C, Pressure: 1005 hPa
+[2025-12-25 14:36:57] [Weather] Temperature: 21.57°C, Pressure: 1003 hPa
+[2025-12-25 14:37:07] [Coordinates] X: 1, Y: -1, Z: 1
+[2025-12-25 14:37:07] [Coordinates] X: -1, Y: -1, Z: -2
+[2025-12-25 14:37:07] [Weather] Temperature: 47.26°C, Pressure: 1082 hPa
+[2025-12-25 14:37:08] [Coordinates] X: 1, Y: 1, Z: 1
+[2025-12-25 14:37:08] [Weather] Temperature: 46.99°C, Pressure: 1084 hPa
+[2025-12-25 14:37:18] [Coordinates] X: 3, Y: 3, Z: 3
+[2025-12-25 14:37:18] [Weather] Temperature: 19.13°C, Pressure: 1008 hPa
+[2025-12-25 14:37:19] [Coordinates] X: -2, Y: 0, Z: -2
+[2025-12-25 14:37:19] [Weather] Temperature: 18.99°C, Pressure: 1004 hPa
+[2025-12-25 14:37:28] [Coordinates] X: 16, Y: 16, Z: 16
+[2025-12-25 14:37:28] [Weather] Temperature: 24.56°C, Pressure: 1042 hPa
+[2025-12-25 14:37:29] [Weather] Temperature: 27.20°C, Pressure: 1049 hPa
+[2025-12-25 14:37:29] [Coordinates] X: 19, Y: 21, Z: 20
+[2025-12-25 14:37:29] [Weather] Temperature: 29.76°C, Pressure: 1059 hPa
+[2025-12-25 14:37:29] [Coordinates] X: 23, Y: 24, Z: 23
+[2025-12-25 14:37:30] [Coordinates] X: 27, Y: 30, Z: 27
+[2025-12-25 14:37:30] [Weather] Temperature: 32.19°C, Pressure: 1066 hPa
+[2025-12-25 14:37:30] [Coordinates] X: 31, Y: 33, Z: 31
+[2025-12-25 14:37:30] [Weather] Temperature: 34.47°C, Pressure: 1068 hPa
+[2025-12-25 14:37:40] [Coordinates] X: 2, Y: 0, Z: 2
+[2025-12-25 14:37:40] [Weather] Temperature: 18.77°C, Pressure: 1000 hPa
+[2025-12-25 14:37:41] [Coordinates] X: 0, Y: -2, Z: 0
+[2025-12-25 14:37:41] [Weather] Temperature: 18.66°C, Pressure: 997 hPa
+[2025-12-25 14:37:42] [Weather] Temperature: 18.56°C, Pressure: 993 hPa
+[2025-12-25 14:37:42] [Weather] Temperature: 18.45°C, Pressure: 998 hPa
+[2025-12-25 14:37:42] [Coordinates] X: -2, Y: -3, Z: -3
+[2025-12-25 14:37:42] [Coordinates] X: -2, Y: -1, Z: -2
+[2025-12-25 14:37:43] [Coordinates] X: 5, Y: 4, Z: 6
+[2025-12-25 14:37:43] [Weather] Temperature: 18.35°C, Pressure: 1007 hPa
+[2025-12-25 14:37:43] [Coordinates] X: 5, Y: 6, Z: 5
+[2025-12-25 14:37:43] [Weather] Temperature: 18.24°C, Pressure: 1012 hPa
+[2025-12-25 14:37:44] [Weather] Temperature: 18.13°C, Pressure: 1006 hPa
+[2025-12-25 14:37:44] [Coordinates] X: 2, Y: 3, Z: 2
+[2025-12-25 14:37:55] [Coordinates] X: 30, Y: 32, Z: 31
+[2025-12-25 14:37:55] [Coordinates] X: 33, Y: 34, Z: 34
+[2025-12-25 14:37:55] [Weather] Temperature: 28.61°C, Pressure: 1055 hPa
+[2025-12-25 14:37:55] [Weather] Temperature: 31.11°C, Pressure: 1064 hPa
+[2025-12-25 14:37:56] [Coordinates] X: 31, Y: 34, Z: 31
+[2025-12-25 14:37:56] [Weather] Temperature: 33.46°C, Pressure: 1068 hPa
+[2025-12-25 14:37:56] [Coordinates] X: 33, Y: 34, Z: 33
+[2025-12-25 14:37:56] [Weather] Temperature: 35.64°C, Pressure: 1068 hPa
+[2025-12-25 14:37:57] [Weather] Temperature: 37.63°C, Pressure: 1068 hPa
+[2025-12-25 14:37:57] [Coordinates] X: 33, Y: 35, Z: 33
+[2025-12-25 14:37:57] [Weather] Temperature: 39.40°C, Pressure: 1070 hPa
+[2025-12-25 14:37:57] [Coordinates] X: 35, Y: 37, Z: 36
+[2025-12-25 14:37:58] [Coordinates] X: 38, Y: 39, Z: 38
+[2025-12-25 14:37:58] [Weather] Temperature: 40.96°C, Pressure: 1074 hPa
+[2025-12-25 14:37:58] [Coordinates] X: 38, Y: 41, Z: 39
+[2025-12-25 14:37:58] [Weather] Temperature: 42.28°C, Pressure: 1078 hPa
+[2025-12-25 14:37:59] [Coordinates] X: 39, Y: 44, Z: 40
+[2025-12-25 14:37:59] [Weather] Temperature: 43.38°C, Pressure: 1082 hPa
+[2025-12-25 14:37:59] [Weather] Temperature: 44.26°C, Pressure: 1087 hPa
+[2025-12-25 14:37:59] [Coordinates] X: 45, Y: 46, Z: 45
+[2025-12-25 14:38:10] [Weather] Temperature: 33.30°C, Pressure: 1068 hPa
+[2025-12-25 14:38:10] [Coordinates] X: 33, Y: 34, Z: 33
+[2025-12-25 14:38:11] [Coordinates] X: 30, Y: 34, Z: 30
+[2025-12-25 14:38:11] [Weather] Temperature: 35.49°C, Pressure: 1068 hPa
+[2025-12-25 14:38:11] [Coordinates] X: 34, Y: 34, Z: 34
+[2025-12-25 14:38:11] [Weather] Temperature: 37.50°C, Pressure: 1068 hPa
+[2025-12-25 14:38:12] [Coordinates] X: 32, Y: 35, Z: 33
+[2025-12-25 14:38:12] [Weather] Temperature: 39.29°C, Pressure: 1069 hPa
+[2025-12-25 14:38:12] [Coordinates] X: 35, Y: 37, Z: 35
+[2025-12-25 14:38:12] [Weather] Temperature: 40.86°C, Pressure: 1074 hPa
+[2025-12-25 14:38:13] [Coordinates] X: 38, Y: 39, Z: 38
+[2025-12-25 14:38:13] [Weather] Temperature: 42.19°C, Pressure: 1078 hPa
+[2025-12-25 14:38:13] [Coordinates] X: 39, Y: 41, Z: 39
+[2025-12-25 14:38:13] [Weather] Temperature: 43.31°C, Pressure: 1082 hPa
+[2025-12-25 14:38:14] [Coordinates] X: 41, Y: 43, Z: 41
+[2025-12-25 14:38:14] [Weather] Temperature: 44.21°C, Pressure: 1087 hPa
+[2025-12-25 14:38:14] [Coordinates] X: 45, Y: 46, Z: 45
+[2025-12-25 14:38:14] [Weather] Temperature: 44.91°C, Pressure: 1092 hPa
+[2025-12-25 14:38:25] [Weather] Temperature: 46.56°C, Pressure: 1089 hPa
+[2025-12-25 14:38:25] [Coordinates] X: 37, Y: 42, Z: 38
+[2025-12-25 14:38:25] [Weather] Temperature: 46.71°C, Pressure: 1083 hPa
+[2025-12-25 14:38:25] [Coordinates] X: 38, Y: 42, Z: 38
+[2025-12-25 14:38:26] [Coordinates] X: 44, Y: 44, Z: 44
+[2025-12-25 14:38:26] [Weather] Temperature: 46.88°C, Pressure: 1084 hPa
+[2025-12-25 14:38:26] [Coordinates] X: 43, Y: 45, Z: 43
+[2025-12-25 14:38:26] [Weather] Temperature: 47.09°C, Pressure: 1087 hPa
+[2025-12-25 14:38:37] [Weather] Temperature: 46.20°C, Pressure: 1097 hPa
+[2025-12-25 14:38:37] [Coordinates] X: 45, Y: 48, Z: 45
+[2025-12-25 14:38:37] [Weather] Temperature: 46.38°C, Pressure: 1095 hPa
+[2025-12-25 14:38:37] [Coordinates] X: 46, Y: 48, Z: 47
+[2025-12-25 14:38:38] [Coordinates] X: 45, Y: 48, Z: 45
+[2025-12-25 14:38:38] [Weather] Temperature: 46.52°C, Pressure: 1090 hPa
+[2025-12-25 14:38:38] [Weather] Temperature: 46.67°C, Pressure: 1084 hPa
+[2025-12-25 14:38:38] [Coordinates] X: 44, Y: 45, Z: 44
+[2025-12-25 14:38:39] [Weather] Temperature: 46.84°C, Pressure: 1083 hPa
+[2025-12-25 14:38:39] [Coordinates] X: 38, Y: 42, Z: 38
+[2025-12-25 14:38:39] [Coordinates] X: 40, Y: 42, Z: 40
+[2025-12-25 14:38:39] [Weather] Temperature: 47.04°C, Pressure: 1086 hPa
+[2025-12-25 14:38:50] [Coordinates] X: 40, Y: 41, Z: 40
+[2025-12-25 14:38:50] [Weather] Temperature: 47.27°C, Pressure: 1082 hPa
+[2025-12-25 14:38:51] [Weather] Temperature: 47.00°C, Pressure: 1084 hPa
+[2025-12-25 14:38:51] [Coordinates] X: 37, Y: 42, Z: 38
+[2025-12-25 14:38:51] [Weather] Temperature: 46.67°C, Pressure: 1084 hPa
+[2025-12-25 14:38:51] [Coordinates] X: 41, Y: 42, Z: 41
+[2025-12-25 14:39:02] [Weather] Temperature: 47.76°C, Pressure: 1079 hPa
+[2025-12-25 14:39:02] [Coordinates] X: 36, Y: 40, Z: 37
+[2025-12-25 14:39:02] [Weather] Temperature: 47.72°C, Pressure: 1080 hPa
+[2025-12-25 14:39:02] [Coordinates] X: 39, Y: 40, Z: 39
+[2025-12-25 14:39:03] [Weather] Temperature: 47.61°C, Pressure: 1081 hPa
+[2025-12-25 14:39:03] [Coordinates] X: 38, Y: 41, Z: 38
+[2025-12-25 14:39:04] [Weather] Temperature: 47.44°C, Pressure: 1081 hPa
+[2025-12-25 14:39:04] [Coordinates] X: 38, Y: 41, Z: 38
+[2025-12-25 14:39:04] [Weather] Temperature: 47.21°C, Pressure: 1082 hPa
+[2025-12-25 14:39:04] [Coordinates] X: 38, Y: 42, Z: 38
+[2025-12-25 14:39:15] [Weather] Temperature: 47.60°C, Pressure: 1081 hPa
+[2025-12-25 14:39:15] [Coordinates] X: 38, Y: 41, Z: 39
+[2025-12-25 14:39:15] [Weather] Temperature: 47.43°C, Pressure: 1081 hPa
+[2025-12-25 14:39:15] [Coordinates] X: 37, Y: 41, Z: 38
+[2025-12-25 14:39:16] [Weather] Temperature: 47.20°C, Pressure: 1082 hPa
+[2025-12-25 14:39:16] [Coordinates] X: 38, Y: 42, Z: 38
+[2025-12-25 14:39:16] [Coordinates] X: 42, Y: 42, Z: 42
+[2025-12-25 14:39:16] [Weather] Temperature: 46.91°C, Pressure: 1084 hPa
+[2025-12-25 14:39:17] [Weather] Temperature: 46.57°C, Pressure: 1084 hPa
+[2025-12-25 14:39:17] [Coordinates] X: 38, Y: 42, Z: 38
+[2025-12-25 14:39:28] [Coordinates] X: 38, Y: 42, Z: 38
+[2025-12-25 14:39:28] [Weather] Temperature: 46.31°C, Pressure: 1083 hPa
+[2025-12-25 14:39:28] [Coordinates] X: 41, Y: 41, Z: 41
+[2025-12-25 14:39:28] [Weather] Temperature: 45.89°C, Pressure: 1082 hPa
+[2025-12-25 14:39:39] [Coordinates] X: 43, Y: 46, Z: 43
+[2025-12-25 14:39:39] [Weather] Temperature: 39.54°C, Pressure: 1093 hPa
+[2025-12-25 14:39:40] [Coordinates] X: 43, Y: 44, Z: 44
+[2025-12-25 14:39:40] [Weather] Temperature: 39.08°C, Pressure: 1088 hPa
+[2025-12-25 14:39:50] [Coordinates] X: 35, Y: 37, Z: 36
+[2025-12-25 14:39:50] [Weather] Temperature: 37.65°C, Pressure: 1073 hPa
+[2025-12-25 14:39:51] [Coordinates] X: 38, Y: 41, Z: 38
+[2025-12-25 14:39:51] [Weather] Temperature: 37.17°C, Pressure: 1082 hPa
+[2025-12-25 14:40:01] [Coordinates] X: 41, Y: 43, Z: 41
+[2025-12-25 14:40:02] [Coordinates] X: 37, Y: 40, Z: 38
+[2025-12-25 14:40:01] [Weather] Temperature: 37.87°C, Pressure: 1072 hPa
+[2025-12-25 14:40:02] [Weather] Temperature: 37.41°C, Pressure: 1077 hPa
+[2025-12-25 14:40:12] [Coordinates] X: 41, Y: 42, Z: 41
+[2025-12-25 14:40:12] [Weather] Temperature: 37.01°C, Pressure: 1086 hPa
+[2025-12-25 14:40:13] [Coordinates] X: 43, Y: 45, Z: 43
+[2025-12-25 14:40:13] [Weather] Temperature: 36.52°C, Pressure: 1090 hPa
+[2025-12-25 14:40:13] [Weather] Temperature: 36.04°C, Pressure: 1083 hPa
+[2025-12-25 14:40:13] [Coordinates] X: 37, Y: 42, Z: 38
+[2025-12-25 14:40:24] [Weather] Temperature: 33.06°C, Pressure: 1036 hPa
+[2025-12-25 14:40:24] [Coordinates] X: 17, Y: 17, Z: 17
+[2025-12-25 14:40:25] [Weather] Temperature: 32.64°C, Pressure: 1031 hPa
+[2025-12-25 14:40:25] [Coordinates] X: 15, Y: 16, Z: 15
+[2025-12-25 14:40:35] [Coordinates] X: 21, Y: 23, Z: 21
+[2025-12-25 14:40:35] [Weather] Temperature: 33.88°C, Pressure: 1055 hPa
+[2025-12-25 14:40:36] [Coordinates] X: 17, Y: 18, Z: 17
+[2025-12-25 14:40:36] [Weather] Temperature: 33.45°C, Pressure: 1046 hPa
+[2025-12-25 14:40:36] [Coordinates] X: 15, Y: 16, Z: 15
+[2025-12-25 14:40:36] [Weather] Temperature: 33.03°C, Pressure: 1035 hPa
+[2025-12-25 14:40:37] [Coordinates] X: 17, Y: 18, Z: 17
+[2025-12-25 14:40:37] [Weather] Temperature: 32.61°C, Pressure: 1031 hPa
+[2025-12-25 14:40:37] [Weather] Temperature: 32.18°C, Pressure: 1035 hPa
+[2025-12-25 14:40:37] [Coordinates] X: 18, Y: 19, Z: 18
+[2025-12-25 14:40:38] [Weather] Temperature: 31.75°C, Pressure: 1038 hPa
+[2025-12-25 14:40:38] [Coordinates] X: 13, Y: 15, Z: 13
+[2025-12-25 14:40:38] [Weather] Temperature: 31.30°C, Pressure: 1031 hPa
+[2025-12-25 14:40:39] [Weather] Temperature: 30.83°C, Pressure: 1029 hPa
+[2025-12-25 14:40:38] [Coordinates] X: 16, Y: 15, Z: 17
+[2025-12-25 14:40:39] [Coordinates] X: 17, Y: 20, Z: 17
+[2025-12-25 14:40:39] [Coordinates] X: 23, Y: 25, Z: 23
+[2025-12-25 14:40:39] [Weather] Temperature: 30.33°C, Pressure: 1039 hPa
+[2025-12-25 14:40:40] [Coordinates] X: 25, Y: 24, Z: 25
+[2025-12-25 14:40:40] [Weather] Temperature: 29.82°C, Pressure: 1049 hPa
+[2025-12-25 14:40:40] [Coordinates] X: 16, Y: 20, Z: 16
+[2025-12-25 14:40:40] [Weather] Temperature: 29.27°C, Pressure: 1048 hPa
+[2025-12-25 14:40:41] [Weather] Temperature: 28.70°C, Pressure: 1040 hPa
+[2025-12-25 14:40:41] [Coordinates] X: 20, Y: 18, Z: 20
+[2025-12-25 14:40:41] [Weather] Temperature: 28.09°C, Pressure: 1036 hPa
+[2025-12-25 14:40:41] [Coordinates] X: 13, Y: 13, Z: 13
+[2025-12-25 14:40:52] [Weather] Temperature: 31.07°C, Pressure: 1028 hPa
+[2025-12-25 14:40:52] [Weather] Temperature: 30.59°C, Pressure: 1033 hPa
+[2025-12-25 14:40:52] [Coordinates] X: 16, Y: 17, Z: 16
+[2025-12-25 14:40:53] [Coordinates] X: 19, Y: 22, Z: 19
+[2025-12-25 14:40:53] [Weather] Temperature: 30.09°C, Pressure: 1045 hPa

@@ -1,0 +1,15 @@
+/Users/igor/univer/akimov_tppl/best_program/src/BestProgram.App/bin/Debug/net9.0/best_program
+/Users/igor/univer/akimov_tppl/best_program/src/BestProgram.App/bin/Debug/net9.0/best_program.deps.json
+/Users/igor/univer/akimov_tppl/best_program/src/BestProgram.App/bin/Debug/net9.0/best_program.runtimeconfig.json
+/Users/igor/univer/akimov_tppl/best_program/src/BestProgram.App/bin/Debug/net9.0/best_program.dll
+/Users/igor/univer/akimov_tppl/best_program/src/BestProgram.App/bin/Debug/net9.0/best_program.pdb
+/Users/igor/univer/akimov_tppl/best_program/src/BestProgram.App/obj/Debug/net9.0/best_program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igor/univer/akimov_tppl/best_program/src/BestProgram.App/obj/Debug/net9.0/best_program.AssemblyInfoInputs.cache
+/Users/igor/univer/akimov_tppl/best_program/src/BestProgram.App/obj/Debug/net9.0/best_program.AssemblyInfo.cs
+/Users/igor/univer/akimov_tppl/best_program/src/BestProgram.App/obj/Debug/net9.0/best_program.csproj.CoreCompileInputs.cache
+/Users/igor/univer/akimov_tppl/best_program/src/BestProgram.App/obj/Debug/net9.0/best_program.sourcelink.json
+/Users/igor/univer/akimov_tppl/best_program/src/BestProgram.App/obj/Debug/net9.0/best_program.dll
+/Users/igor/univer/akimov_tppl/best_program/src/BestProgram.App/obj/Debug/net9.0/refint/best_program.dll
+/Users/igor/univer/akimov_tppl/best_program/src/BestProgram.App/obj/Debug/net9.0/best_program.pdb
+/Users/igor/univer/akimov_tppl/best_program/src/BestProgram.App/obj/Debug/net9.0/best_program.genruntimeconfig.cache
+/Users/igor/univer/akimov_tppl/best_program/src/BestProgram.App/obj/Debug/net9.0/ref/best_program.dll
